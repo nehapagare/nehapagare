@@ -102,10 +102,12 @@ nav {
 
 .logo {
     font-family: var(--font-heading);
-    font-size: 1.75rem;
+    font-size: 2rem;
     font-weight: 700;
-    color: var(--primary-color);
+    color: var(--accent-color);
+    /* Gold color to make it shine */
     letter-spacing: -0.01em;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }
 
 .nav-links {
@@ -263,8 +265,9 @@ nav {
 }
 
 .company-logo {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    /* Slightly bigger logos */
+    height: 60px;
     object-fit: contain;
     background: white;
     padding: 4px;
@@ -273,6 +276,12 @@ nav {
     flex-shrink: 0;
     margin-top: 4px;
     /* Align with title */
+    transition: transform 0.2s;
+}
+
+.company-logo:hover {
+    transform: scale(1.05);
+    /* Subtle pop on hover */
 }
 
 .timeline-content {
@@ -330,6 +339,9 @@ nav {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 2rem;
+    max-width: 1000px;
+    /* Constrain width slightly for better grid look */
+    margin: 0 auto;
 }
 
 .skill-category.wide {
@@ -359,22 +371,39 @@ nav {
 .tag {
     background-color: #ECFDF5;
     color: var(--primary-color);
-    padding: 0.5rem 1rem;
+    padding: 0.6rem 1.1rem;
+    /* Slightly larger padding */
     border-radius: 4px;
-    font-size: 0.875rem;
+    font-size: 0.9rem;
+    /* Slightly larger font */
     font-weight: 600;
     transition: all 0.2s;
     border: 1px solid #D1FAE5;
     display: inline-flex;
     align-items: center;
-    gap: 8px;
+    gap: 10px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
 }
 
+.tag i {
+    font-size: 1.1em;
+    /* Make icons larger relative to text */
+    color: var(--secondary-color);
+    /* Slightly distinguishable color */
+}
 
 .tag:hover {
     background-color: var(--primary-color);
     color: white;
     border-color: var(--primary-color);
+    transform: translateY(-2px);
+    /* Pop out effect */
+    box-shadow: var(--shadow-sm);
+}
+
+.tag:hover i {
+    color: var(--accent-color);
+    /* Icon turns gold on hover */
 }
 
 /* Footer */
