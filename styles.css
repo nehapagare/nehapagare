@@ -1,26 +1,29 @@
-/* Modern Executive Theme */
+/* Modern Executive Theme - Navy Green & White */
 :root {
-    --primary-color: #0F172A;
-    /* Deep Navy */
-    --secondary-color: #334155;
-    /* Slate */
-    --accent-color: #CA8A04;
-    /* Muted Gold */
-    --background-color: #F8FAFC;
-    /* Off-White */
-    --surface-color: #FFFFFF;
-    --text-primary: #1E293B;
-    --text-secondary: #475569;
+    --primary-color: #064E3B;
+    /* Deep Navy Green (Emerald 900) */
+    --secondary-color: #065F46;
+    /* Rich Green */
+    --accent-color: #D4AF37;
+    /* Gold/Bronze for subtle highlights */
+    --background-color: #FFFFFF;
+    /* Pure White */
+    --surface-color: #F8FAFC;
+    /* Very Light Gray/White */
+    --text-primary: #111827;
+    /* Near Black */
+    --text-secondary: #374151;
+    /* Dark Gray */
+    --text-inverse: #FFFFFF;
+    /* White text for dark backgrounds */
 
     --font-heading: 'Playfair Display', serif;
     --font-body: 'Lato', sans-serif;
 
-    --border-radius: 8px;
-    /* Slightly sharper for professional look */
+    --border-radius: 4px;
     --spacing-unit: 1rem;
-    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
     --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
 
 /* Reset & Base Styles */
@@ -72,20 +75,29 @@ section {
 
 /* Header & Navigation */
 header {
-    background-color: rgba(255, 255, 255, 0.95);
+    background-color: rgba(255, 255, 255, 0.98);
     backdrop-filter: blur(10px);
     box-shadow: var(--shadow-sm);
     position: sticky;
     top: 0;
     z-index: 100vh;
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    height: 80px;
+    /* Fixed height for alignment */
+    display: flex;
+    /* Flex to center content */
+    align-items: center;
+}
+
+header .container {
+    width: 100%;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 80px;
+    width: 100%;
 }
 
 .logo {
@@ -93,67 +105,71 @@ nav {
     font-size: 1.75rem;
     font-weight: 700;
     color: var(--primary-color);
-    letter-spacing: -0.02em;
+    letter-spacing: -0.01em;
 }
 
 .nav-links {
     display: flex;
-    gap: 2.5rem;
+    gap: 2rem;
     align-items: center;
+    /* Ensures vertical alignment */
 }
 
-.nav-links a {
+.nav-links a.nav-item {
     font-size: 0.95rem;
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: var(--secondary-color);
+    color: var(--text-primary);
     position: relative;
+    padding: 0.5rem 0;
 }
 
-.nav-links a:not(.btn)::after {
+.nav-links a.nav-item::after {
     content: '';
     position: absolute;
-    bottom: -4px;
+    bottom: 0;
     left: 0;
     width: 0;
     height: 2px;
-    background-color: var(--accent-color);
+    background-color: var(--primary-color);
     transition: width 0.3s ease;
 }
 
-.nav-links a:hover::after {
+.nav-links a.nav-item:hover::after {
     width: 100%;
-}
-
-.nav-links a:hover {
-    color: var(--primary-color);
 }
 
 /* Button */
 .btn {
-    display: inline-block;
-    padding: 0.75rem 1.75rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.6rem 1.5rem;
     background-color: var(--primary-color);
     color: white !important;
     font-weight: 600;
     border-radius: var(--border-radius);
     letter-spacing: 0.02em;
+    font-size: 0.95rem;
+    border: 1px solid var(--primary-color);
 }
 
 .btn:hover {
     background-color: var(--secondary-color);
+    color: white !important;
     transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(15, 23, 42, 0.15);
+    box-shadow: var(--shadow-md);
 }
 
 .hero .btn {
-    background-color: var(--accent-color);
+    background-color: white;
     color: var(--primary-color) !important;
+    border-color: white;
 }
 
 .hero .btn:hover {
-    background-color: #EAB308;
+    background-color: #f0fdf4;
 }
 
 /* Hero Section */
@@ -162,13 +178,6 @@ nav {
     color: white;
     padding: 8rem 0 6rem;
     text-align: center;
-    position: relative;
-    overflow: hidden;
-}
-
-.hero-content {
-    position: relative;
-    z-index: 10;
 }
 
 .hero h1 {
@@ -181,13 +190,19 @@ nav {
 .hero p {
     font-size: 1.35rem;
     font-weight: 300;
-    color: #E2E8F0;
-    max-width: 700px;
+    color: rgba(255, 255, 255, 0.9);
+    max-width: 900px;
     margin: 0 auto 2.5rem;
+    line-height: 1.5;
 }
 
 .hero a {
-    color: #94A3B8;
+    color: rgba(255, 255, 255, 0.8);
+    transition: color 0.2s;
+}
+
+.hero a:hover {
+    color: white;
 }
 
 /* Section Titles */
@@ -196,9 +211,7 @@ nav {
     margin-bottom: 3.5rem;
     text-align: center;
     position: relative;
-    display: inline-block;
-    left: 50%;
-    transform: translateX(-50%);
+    color: var(--primary-color);
 }
 
 .section-title::after {
@@ -212,11 +225,11 @@ nav {
 
 /* Cards */
 .card {
-    background: var(--surface-color);
+    background: white;
     padding: 2.5rem;
     border-radius: var(--border-radius);
     box-shadow: var(--shadow-sm);
-    border: 1px solid rgba(0, 0, 0, 0.03);
+    border: 1px solid #E5E7EB;
 }
 
 /* Experience */
@@ -229,7 +242,7 @@ nav {
 .timeline-item {
     margin-bottom: 4rem;
     padding-left: 2.5rem;
-    border-left: 2px solid #E2E8F0;
+    border-left: 2px solid #D1FAE5;
     position: relative;
 }
 
@@ -240,14 +253,15 @@ nav {
     top: 6px;
     width: 10px;
     height: 10px;
-    background: var(--surface-color);
-    border: 2px solid var(--accent-color);
+    background: white;
+    border: 2px solid var(--primary-color);
     border-radius: 50%;
 }
 
 .job-title {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     margin-bottom: 0.25rem;
+    color: var(--primary-color);
 }
 
 .company {
@@ -256,14 +270,14 @@ nav {
     font-size: 0.9rem;
     font-weight: 700;
     letter-spacing: 0.05em;
-    color: var(--accent-color);
+    color: var(--text-secondary);
     margin-bottom: 0.5rem;
     display: inline-block;
 }
 
 .date {
     font-size: 0.9rem;
-    color: var(--text-secondary);
+    color: #6B7280;
     font-style: italic;
     margin-bottom: 1.5rem;
     display: block;
@@ -286,11 +300,22 @@ nav {
     gap: 2rem;
 }
 
+.skill-category.wide {
+    grid-column: 1 / -1;
+}
+
+@media (min-width: 769px) {
+    .skill-category.wide {
+        grid-column: span 2;
+    }
+}
+
 .skill-category h3 {
     font-size: 1.25rem;
     margin-bottom: 1.5rem;
-    border-bottom: 1px solid #E2E8F0;
+    border-bottom: 1px solid #E5E7EB;
     padding-bottom: 0.75rem;
+    color: var(--primary-color);
 }
 
 .skill-tags {
@@ -300,24 +325,26 @@ nav {
 }
 
 .tag {
-    background-color: #F1F5F9;
-    color: var(--secondary-color);
+    background-color: #ECFDF5;
+    color: var(--primary-color);
     padding: 0.5rem 1rem;
     border-radius: 4px;
     font-size: 0.875rem;
     font-weight: 600;
     transition: all 0.2s;
+    border: 1px solid #D1FAE5;
 }
 
 .tag:hover {
     background-color: var(--primary-color);
     color: white;
+    border-color: var(--primary-color);
 }
 
 /* Footer */
 footer {
     background-color: var(--primary-color);
-    color: #94A3B8;
+    color: white;
     padding: 5rem 0 3rem;
     text-align: center;
 }
@@ -328,25 +355,33 @@ footer {
 
 .contact-links {
     margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
 }
 
 .contact-links a {
     font-size: 1.75rem;
-    color: white;
-    margin: 0 1rem;
-    opacity: 0.8;
+    color: rgba(255, 255, 255, 0.7);
+    transition: all 0.2s;
 }
 
 .contact-links a:hover {
-    opacity: 1;
-    color: var(--accent-color);
+    color: white;
+    transform: translateY(-3px);
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 0.875rem;
+    margin-top: 3rem;
 }
 
 /* Mobile Responsive */
 @media (max-width: 768px) {
     .nav-links {
         display: none;
-        /* In a real scenario, use a burger menu here */
+        /* Mobile menu would go here */
     }
 
     .hero h1 {
@@ -359,5 +394,9 @@ footer {
 
     .timeline-item {
         padding-left: 1.5rem;
+    }
+
+    .hero p {
+        padding: 0 1rem;
     }
 }
