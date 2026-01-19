@@ -50,15 +50,24 @@
                 <p class="hero-animate" style="font-size: 1.5rem; font-weight: 300; margin-bottom: 2rem;">Risk Technical
                     Project Manager | IT
                     Project Manager</p>
-                <p class="hero-animate"
-                    style="font-size: 1.25rem; font-weight: 500; opacity: 1; margin-bottom: 1.5rem; text-shadow: 0 1px 2px rgba(0,0,0,0.1);">
-                    <i class="fas fa-map-marker-alt" style="margin-right: 8px; color: #D4AF37;"></i>Chicago, IL
-                    <span style="margin: 0 10px; opacity: 0.6;">|</span>
+                <div class="hero-animate"
+                    style="font-size: 1.25rem; font-weight: 500; opacity: 1; margin-bottom: 1.5rem; text-shadow: 0 1px 2px rgba(0,0,0,0.1); display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+
+                    <span><i class="fas fa-map-marker-alt" style="margin-right: 8px; color: #D4AF37;"></i>Chicago,
+                        IL</span>
+                    <span style="opacity: 0.6; display: none; margin: 0;">|</span>
+                    <!-- Hidden on flex wrap, handle via gap -->
+
                     <a href="mailto:npnehapagare@gmail.com"
                         style="text-decoration: none; color: white; border-bottom: 2px solid #D4AF37; padding-bottom: 2px;">
                         <i class="fas fa-envelope" style="margin-right: 8px; color: #D4AF37;"></i>npnehapagare@gmail.com
                     </a>
-                </p>
+
+                    <a href="mailto:Email@nehapagare.com"
+                        style="text-decoration: none; color: white; border-bottom: 2px solid #D4AF37; padding-bottom: 2px;">
+                        <i class="fas fa-envelope" style="margin-right: 8px; color: #D4AF37;"></i>Email@nehapagare.com
+                    </a>
+                </div>
             </div>
         </section>
 
@@ -431,10 +440,16 @@
 
             <!-- Right Column: Contact & Download -->
             <div class="footer-right">
-                <div style="font-size: 1.2rem; margin-bottom: 1rem;">
+                <div
+                    style="font-size: 1.2rem; margin-bottom: 1rem; display: flex; flex-direction: column; gap: 0.5rem; align-items: flex-end;">
                     <a href="tel:+13123401116" style="text-decoration: none; color: inherit;">
                         <i class="fas fa-phone-alt" style="margin-right: 8px; color: var(--accent-color);"></i> +1 (312)
                         340-1116
+                    </a>
+                    <a href="mailto:Email@nehapagare.com"
+                        style="text-decoration: none; color: inherit; font-size: 1.1rem;">
+                        <i class="fas fa-envelope" style="margin-right: 8px; color: var(--accent-color);"></i>
+                        Email@nehapagare.com
                     </a>
                 </div>
 
