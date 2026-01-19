@@ -316,36 +316,47 @@
     </main>
 
     <footer id="contact">
-        <div class="container">
-            <h2 class="section-title" style="color: white;">Get In Touch</h2>
+        <div class="container footer-content">
+            <div class="footer-left">
+                <h2 class="section-title"
+                    style="color: white; text-align: left; margin-left: 0; margin-bottom: 1.5rem;">Get In Touch</h2>
 
-            <div class="resume-download">
-                <p style="color: rgba(255,255,255,0.9); margin-bottom: 1rem;">Scanning on mobile? Download Resume PDF
-                </p>
-                <div class="qr-container">
-                    <!-- Simple QR Code API -->
-                    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://nehapagare.github.io/nehapagare/assets/resume.pdf"
-                        alt="Scan to download resume" width="120" height="120">
+                <div class="contact-links" style="justify-content: flex-start; margin: 1rem 0;">
+                    <a href="https://linkedin.com/in/nehapagare" target="_blank" title="LinkedIn"><i
+                            class="fab fa-linkedin"></i></a>
+                    <a href="https://twitter.com/nehapagare" target="_blank" title="Twitter"><i
+                            class="fab fa-twitter"></i></a>
+                    <a href="https://instagram.com/nehapagare" target="_blank" title="Instagram"><i
+                            class="fab fa-instagram"></i></a>
+                    <a href="mailto:npnehapagare@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
                 </div>
-                <br>
-                <a href="assets/resume.pdf" class="btn"
-                    style="background: white; color: var(--primary-color) !important; border: none; margin-top: 1rem;"
-                    download>
-                    <i class="fas fa-download" style="margin-right: 8px;"></i> Download Resume
-                </a>
+
+                <div class="contact-info">
+                    <p style="color: rgba(255,255,255,0.9); font-size: 1.1rem; margin-bottom: 0.5rem;"><i
+                            class="fas fa-phone-alt" style="margin-right: 10px; font-size: 0.9em;"></i> (312) 340-1116
+                    </p>
+                    <p class="copyright" style="margin-top: 1rem; text-align: left;">&copy; 2026 Neha Pagare. All rights
+                        reserved.</p>
+                </div>
             </div>
 
-            <div class="contact-links">
-                <a href="https://linkedin.com/in/nehapagare" target="_blank" title="LinkedIn"><i
-                        class="fab fa-linkedin"></i></a>
-                <a href="https://twitter.com/nehapagare" target="_blank" title="Twitter"><i
-                        class="fab fa-twitter"></i></a>
-                <a href="https://instagram.com/nehapagare" target="_blank" title="Instagram"><i
-                        class="fab fa-instagram"></i></a>
-                <a href="mailto:npnehapagare@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+            <div class="footer-right">
+                <div class="resume-download-card">
+                    <div class="qr-wrapper">
+                        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://nehapagare.github.io/nehapagare/assets/resume.pdf"
+                            alt="Scan to download resume">
+                    </div>
+                    <div class="download-actions">
+                        <p
+                            style="color: var(--primary-color); font-weight: 700; margin-bottom: 0.5rem; font-size: 0.9rem;">
+                            Scan or Click</p>
+                        <a href="assets/resume.pdf" class="btn"
+                            style="background: var(--primary-color); color: white !important; width: 100%;" download>
+                            <i class="fas fa-download" style="margin-right: 8px;"></i> Download PDF
+                        </a>
+                    </div>
+                </div>
             </div>
-            <p style="margin-top: 1rem; color: rgba(255,255,255,0.8); font-size: 1.1rem;">(312) 340-1116</p>
-            <p class="copyright">&copy; 2026 Neha Pagare. All rights reserved.</p>
         </div>
     </footer>
 </body>

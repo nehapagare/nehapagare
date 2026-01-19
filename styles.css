@@ -381,62 +381,74 @@ nav {
 footer {
     background-color: var(--primary-color);
     color: white;
-    padding: 5rem 0 3rem;
+    padding: 4rem 0;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.footer-left {
     text-align: center;
 }
 
-/* Explicit centering for footer title */
-footer .section-title {
-    color: white;
-    margin-left: auto;
-    margin-right: auto;
-    left: auto;
-    transform: none;
+.footer-right {
+    display: flex;
+    justify-content: center;
+}
+
+.resume-download-card {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    max-width: 400px;
+}
+
+.qr-wrapper img {
+    width: 80px;
+    height: 80px;
     display: block;
 }
 
-footer .section-title::after {
-    margin: 1rem auto 0;
-    width: 60px;
+.download-actions {
+    text-align: left;
+    flex: 1;
 }
 
 .contact-links {
-    margin: 2rem 0;
+    margin: 1.5rem 0;
     display: flex;
     justify-content: center;
-    gap: 2.5rem;
+    gap: 2rem;
 }
 
-.contact-links a {
-    font-size: 1.75rem;
-    color: rgba(255, 255, 255, 0.7);
-    transition: all 0.2s;
-}
+/* Desktop Footer Layout */
+@media (min-width: 769px) {
+    .footer-content {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        text-align: left;
+    }
 
-.contact-links a:hover {
-    color: white;
-    transform: translateY(-3px);
-}
+    .footer-left {
+        text-align: left;
+        max-width: 50%;
+    }
 
-.copyright {
-    color: rgba(255, 255, 255, 0.5);
-    font-size: 0.875rem;
-    margin-top: 3rem;
-}
+    .footer-left .section-title::after {
+        margin-left: 0;
+        margin-right: auto;
+    }
 
-/* QR Code */
-.resume-download {
-    margin-bottom: 2rem;
-    padding-bottom: 2rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-}
-
-.qr-container {
-    background: white;
-    padding: 10px;
-    border-radius: 8px;
-    display: inline-block;
-    margin-bottom: 1rem;
+    .contact-links {
+        justify-content: flex-start;
+    }
 }
 
 
