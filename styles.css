@@ -1,11 +1,11 @@
 /* Modern Executive Theme - Navy Green & White */
 :root {
-    --primary-color: #6A0DAD;
-    /* Amethyst (Deep Purple) */
-    --secondary-color: #4B0082;
-    /* Indigo (Darker Amethyst shade) */
-    --accent-color: #20B2AA;
-    /* Light Sea Green (Aquamarine variant for contrast) */
+    --primary-color: #0F172A;
+    /* Deep Navy / Slate 900 - Executive & Professional */
+    --secondary-color: #1E293B;
+    /* Slate 800 */
+    --accent-color: #2563EB;
+    /* Royal Blue - Trustworthy & Modern */
     --background-color: #FFFFFF;
     /* Pure White */
     --surface-color: #F8FAFC;
@@ -188,7 +188,7 @@ nav {
 }
 
 .hero .btn:hover {
-    background-color: #f0fdf4;
+    background-color: #F0F9FF;
 }
 
 /* Hero Section */
