@@ -390,70 +390,79 @@ footer {
     gap: 3rem;
 }
 
-.footer-left {
-    text-align: center;
-}
-
+/* Mobile Default (Centered) */
+.footer-left,
 .footer-right {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
+}
+
+.contact-links {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.contact-links a:hover {
+    color: var(--accent-color);
+    transform: translateY(-2px);
 }
 
 .resume-download-card {
     background: white;
-    padding: 1rem;
+    padding: 10px;
     border-radius: 8px;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 1.5rem;
-    max-width: 400px;
+    gap: 10px;
 }
 
 .qr-wrapper img {
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
     display: block;
 }
 
-.download-actions {
-    text-align: left;
-    flex: 1;
-}
-
-.contact-links {
-    margin: 1.5rem 0;
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-}
-
-/* Desktop Footer Layout */
+/* Desktop: Left/Right Split */
 @media (min-width: 769px) {
     .footer-content {
         flex-direction: row;
         justify-content: space-between;
-        align-items: center;
-        text-align: left;
+        align-items: flex-start;
+        /* Align tops of columns */
     }
 
     .footer-left {
+        align-items: flex-start;
+        /* Left align text */
         text-align: left;
-        max-width: 50%;
+        max-width: 45%;
     }
 
     .footer-right {
-        justify-content: flex-end;
-        /* Align right column to the right edge */
-        flex: 1;
+        align-items: flex-end;
+        /* Right align text and items */
+        text-align: right;
+        max-width: 45%;
     }
 
     .resume-download-card {
-        margin-left: auto;
-        /* Push to the right */
+        align-items: flex-end;
+        /* Keep internal items right aligned or centered? QR usually looks best centered in its box, but box aligned right */
+        background: transparent;
+        /* Remove white box container for cleaner look, just show QR */
+        padding: 0;
     }
 
-    .contact-links {
-        justify-content: flex-start;
+    .qr-wrapper {
+        background: white;
+        padding: 10px;
+        border-radius: 8px;
+        margin-bottom: 10px;
     }
 }
 
