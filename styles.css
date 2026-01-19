@@ -274,33 +274,34 @@ nav {
     margin: 0 auto;
 }
 
-#experience {
+/* Map Wrapper (Experience + Education) */
+#map-wrapper {
     background-image: url('assets/images/world-map.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 120%;
-    /* Start slightly zoomed in so we don't see edges if possible, or just cover */
+    /* Start slightly zoomed in */
     background-attachment: fixed;
     position: relative;
     /* Use a longer, smoother transition */
     transition: background-position 2s ease-in-out, background-size 2s ease-in-out;
 }
 
-#experience.view-chicago {
+#map-wrapper.view-chicago {
     background-position: 20% 40% !important;
     /* Adjust coordinates for North America */
     background-size: 220%;
     /* Significant zoom */
 }
 
-#experience.view-india {
+#map-wrapper.view-india {
     background-position: 75% 60% !important;
     /* Adjust coordinates for India/Asia */
     background-size: 220%;
     /* Significant zoom */
 }
 
-#experience::before {
+#map-wrapper::before {
     content: '';
     position: absolute;
     top: 0;
@@ -312,10 +313,17 @@ nav {
     z-index: 0;
 }
 
-#experience .container {
+#map-wrapper .container {
     position: relative;
     z-index: 1;
     /* Ensure text sits above the fade overlay */
+}
+
+/* Ensure sections inside are transparent */
+#experience,
+#education {
+    background-color: transparent;
+    position: relative;
 }
 
 .timeline-item {
