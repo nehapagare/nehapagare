@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @nehapagare
-- 👀 I’m interested in building projects from scratch and managing capital allocations to fuel growth
-- 🌱 I’m currently learning anything that comes my way
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me via Twitter -@npnehapagare
+# Neha Pagare
+## Risk Technical Project Manager | IT Project Manager | Data Analyst
 
-<!---
-nehapagare/nehapagare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![View Live Portfolio](https://img.shields.io/badge/View_Live_Portfolio-064E3B?style=for-the-badge&logo=github&logoColor=white)](https://nehapagare.github.io/)
+
+Technically proficient, excellence-driven professional with 7+ years of experience increasing efficiency, productivity, and revenue across projects of all sizes. With a critical eye for detail and a disciplined approach to execution, I excel at driving projects through to completion based on milestones and top-notch communication.
+
+---
+
+### 🚀 Core Competencies
+
+**Management & Strategy**  
+Agile Methodologies • Project Scope • Planning & Prioritizing • Budgeting • Risk Mitigation • Process Improvement • Stakeholder Relations
+
+**Technical & Data Analysis**  
+SQL • Python • Tableau • Power-BI • Fast API • SDLC • Scrum Metrics
+
+**Tools & Platforms**  
+JIRA • Kanban • Github & Copilot • Jenkins (CICD) • ServiceNow • Confluence
+
+---
+
+### 📍 Experience Highlights
+
+- **Risk Technical Project Manager** @ Intercontinental Exchange (ICE)
+- **IT Project Manager** @ City of Chicago
+- **Project Manager** @ Nielsen Holdings
+- **Data Analyst** @ Markets and Markets
+
+---
+
+### 📫 Contact Me
+
+[LinkedIn](https://linkedin.com/in/nehapagare) • [Twitter](https://twitter.com/nehapagare) • [Email](mailto:npnehapagare@gmail.com)
