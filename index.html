@@ -485,47 +485,47 @@
             }, observerOptions);
 
             timelineItems.forEach(item => observer.observe(item));
+
+            // --- Dynamic Animations Logic ---
+
+            // 1. Scroll Animation Observer
+            const scrollObserverOptions = {
+                threshold: 0.15,
+                rootMargin: "0px 0px -50px 0px"
+            };
+
+            const scrollObserver = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('visible');
+
+                        // Special handling for skills to stagger them
+                        if (entry.target.classList.contains('skill-tags')) {
+                            const tags = entry.target.querySelectorAll('.tag');
+                            tags.forEach((tag, index) => {
+                                tag.style.animationDelay = `${index * 0.05}s`;
+                                tag.classList.add('pop-in');
+                            });
+                        }
+
+                        observer.unobserve(entry.target); // Run once
+                    }
+                });
+            }, scrollObserverOptions);
+
+            // Target elements
+            const animatedElements = document.querySelectorAll('.animate-on-scroll');
+            animatedElements.forEach(el => scrollObserver.observe(el));
+
+            // 2. Hero Staggered Entrance
+            const heroElements = document.querySelectorAll('.hero-animate');
+            heroElements.forEach((el, index) => {
+                setTimeout(() => {
+                    el.classList.add('visible');
+                }, index * 200 + 100); // Stagger start
+            });
         });
     </script>
 </body>
 
 </html>
-document.addEventListener('DOMContentLoaded', function () {
-
-// 1. Scroll Animation Observer
-const scrollObserverOptions = {
-threshold: 0.15,
-rootMargin: "0px 0px -50px 0px"
-};
-
-const scrollObserver = new IntersectionObserver((entries, observer) => {
-entries.forEach(entry => {
-if (entry.isIntersecting) {
-entry.target.classList.add('visible');
-
-// Special handling for skills to stagger them
-if (entry.target.classList.contains('skill-tags')) {
-const tags = entry.target.querySelectorAll('.tag');
-tags.forEach((tag, index) => {
-tag.style.animationDelay = `${index * 0.05}s`;
-tag.classList.add('pop-in');
-});
-}
-
-observer.unobserve(entry.target); // Run once
-}
-});
-}, scrollObserverOptions);
-
-// Target elements
-const animatedElements = document.querySelectorAll('.animate-on-scroll');
-animatedElements.forEach(el => scrollObserver.observe(el));
-
-// 2. Hero Staggered Entrance (handled by CSS classes on load, but ensuring clean start)
-const heroElements = document.querySelectorAll('.hero-animate');
-heroElements.forEach((el, index) => {
-setTimeout(() => {
-el.classList.add('visible');
-}, index * 200 + 100); // Stagger start
-});
-});
