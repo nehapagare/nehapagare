@@ -38,6 +38,8 @@ body {
     background-color: var(--background-color);
     color: var(--text-primary);
     line-height: 1.7;
+    font-size: 1.125rem;
+    /* Increased from default (usually 16px to 18px) */
     -webkit-font-smoothing: antialiased;
 }
 
@@ -50,6 +52,7 @@ h6 {
     font-family: var(--font-heading);
     color: var(--primary-color);
     line-height: 1.2;
+    margin-bottom: 0.5rem;
 }
 
 a {
@@ -368,6 +371,19 @@ nav {
 
 .timeline-content {
     flex: 1;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(8px);
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.timeline-item:hover .timeline-content {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    border-color: var(--accent-color);
 }
 
 .company-logo {
