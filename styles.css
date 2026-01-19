@@ -1,11 +1,11 @@
 /* Modern Executive Theme - Navy Green & White */
 :root {
-    --primary-color: #064E3B;
-    /* Deep Navy Green (Emerald 900) */
-    --secondary-color: #065F46;
-    /* Rich Green */
-    --accent-color: #D4AF37;
-    /* Gold/Bronze for subtle highlights */
+    --primary-color: #6A0DAD;
+    /* Amethyst (Deep Purple) */
+    --secondary-color: #4B0082;
+    /* Indigo (Darker Amethyst shade) */
+    --accent-color: #20B2AA;
+    /* Light Sea Green (Aquamarine variant for contrast) */
     --background-color: #FFFFFF;
     /* Pure White */
     --surface-color: #F8FAFC;
