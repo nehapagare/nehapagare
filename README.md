@@ -1,7 +1,7 @@
 # Neha Pagare
 ## Risk Technical Project Manager | IT Project Manager | Data Analyst
 
-[![View Live Portfolio](https://img.shields.io/badge/View_Live_Portfolio-064E3B?style=for-the-badge&logo=github&logoColor=white)](https://nehapagare.github.io/)
+[![View Live Portfolio](https://img.shields.io/badge/View_Live_Portfolio-064E3B?style=for-the-badge&logo=github&logoColor=white)](https://nehapagare.github.io/nehapagare/)
 
 Technically proficient, excellence-driven professional with 7+ years of experience increasing efficiency, productivity, and revenue across projects of all sizes. With a critical eye for detail and a disciplined approach to execution, I excel at driving projects through to completion based on milestones and top-notch communication.
 
