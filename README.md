@@ -1,5 +1,5 @@
 # Neha Pagare
-## Risk Technical Project Manager | IT Project Manager | Data Analyst
+## Risk Technical Project Manager | IT Project Manager
 
 [![View Live Portfolio](https://img.shields.io/badge/View_Live_Portfolio-064E3B?style=for-the-badge&logo=github&logoColor=white)](https://nehapagare.github.io/nehapagare/)
 
