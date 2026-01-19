@@ -282,9 +282,24 @@ nav {
 #experience {
     background-image: url('assets/images/world-map.png');
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
+    background-position: 50% 50%;
+    /* Default Center */
+    background-size: 100%;
+    /* Default Size */
     position: relative;
+    transition: background-position 1.5s ease-in-out, background-size 1.5s ease-in-out;
+}
+
+#experience.view-chicago {
+    background-position: 23% 32%;
+    /* Zooms to Chicago */
+    background-size: 160%;
+}
+
+#experience.view-india {
+    background-position: 72% 48%;
+    /* Zooms to India */
+    background-size: 160%;
 }
 
 #experience::before {
