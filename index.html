@@ -371,6 +371,41 @@
             </div>
         </div>
     </footer>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const experienceSection = document.getElementById('experience');
+            const timelineItems = document.querySelectorAll('.timeline-item');
+
+            const observerOptions = {
+                root: null,
+                rootMargin: '-10% 0px -10% 0px', // Trigger slightly inwards/outwards to catch it
+                threshold: 0.15 // Trigger when 15% of the item is visible
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const location = entry.target.getAttribute('data-location');
+
+                        // Only update if location is set
+                        if (location) {
+                            // Remove existing view classes
+                            experienceSection.classList.remove('view-chicago', 'view-india');
+
+                            // Add new class
+                            if (location === 'chicago') {
+                                experienceSection.classList.add('view-chicago');
+                            } else if (location === 'india') {
+                                experienceSection.classList.add('view-india');
+                            }
+                        }
+                    }
+                });
+            }, observerOptions);
+
+            timelineItems.forEach(item => observer.observe(item));
+        });
+    </script>
 </body>
 
 </html>
