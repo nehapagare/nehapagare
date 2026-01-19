@@ -289,8 +289,8 @@ nav {
 }
 
 #map-wrapper.view-chicago {
-    background-position: 20% 40% !important;
-    /* Adjust coordinates for North America */
+    background-position: 20% 20% !important;
+    /* Adjust coordinates for North America - Shifted North */
     background-size: 220%;
     /* Significant zoom */
 }
