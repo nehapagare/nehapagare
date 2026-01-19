@@ -189,6 +189,22 @@ nav {
     color: white;
 }
 
+.hero-image {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+    margin-bottom: 1.5rem;
+    transition: transform 0.3s ease;
+}
+
+.hero-image:hover {
+    transform: scale(1.02);
+    border-color: rgba(255, 255, 255, 0.8);
+}
+
 .hero p {
     font-size: 1.35rem;
     font-weight: 300;
