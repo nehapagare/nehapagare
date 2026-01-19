@@ -333,9 +333,7 @@ nav {
     padding-left: 2.5rem;
     border-left: 2px solid #D1FAE5;
     position: relative;
-    display: flex;
-    gap: 1.5rem;
-    align-items: flex-start;
+    /* Removed flex/gap as logo is moving inside */
 }
 
 .timeline-item::before {
@@ -351,35 +349,35 @@ nav {
     z-index: 2;
 }
 
-.company-logo {
-    width: 60px;
-    /* Slightly bigger logos */
-    height: 60px;
-    object-fit: contain;
-    background: white;
-    padding: 4px;
-    border-radius: 8px;
-    border: 1px solid #E5E7EB;
-    flex-shrink: 0;
-    margin-top: 4px;
-    /* Align with title */
-    transition: transform 0.2s;
-}
-
-.company-logo:hover {
-    transform: scale(1.05);
-    /* Subtle pop on hover */
-}
-
 .timeline-content {
-    flex: 1;
     background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(8px);
-    padding: 1.5rem;
+    padding: 2rem;
+    /* Increased padding */
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
     border: 1px solid rgba(0, 0, 0, 0.05);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.timeline-header {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.company-logo {
+    width: 85px;
+    /* Increased from 60px */
+    height: 85px;
+    object-fit: contain;
+    background: white;
+    padding: 8px;
+    border-radius: 12px;
+    border: 1px solid #E5E7EB;
+    box-shadow: var(--shadow-sm);
+    flex-shrink: 0;
 }
 
 .timeline-item:hover .timeline-content {
@@ -388,40 +386,34 @@ nav {
     border-color: var(--accent-color);
 }
 
-.company-logo {
-    width: 40px;
-    height: 40px;
-    object-fit: contain;
-    background: white;
-    padding: 2px;
-    border-radius: 4px;
-    border: 1px solid #E5E7EB;
+.timeline-title-group {
+    flex: 1;
 }
 
 .job-title {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     margin-bottom: 0.25rem;
     color: var(--primary-color);
+    line-height: 1.2;
 }
-
 
 .company {
     font-family: var(--font-body);
     text-transform: uppercase;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     font-weight: 700;
     letter-spacing: 0.05em;
     color: var(--text-secondary);
-    margin-bottom: 0.5rem;
-    display: inline-block;
+    display: block;
+    /* Stacked */
 }
 
 .date {
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     color: #6B7280;
     font-style: italic;
-    margin-bottom: 1.5rem;
     display: block;
+    margin-top: 0.25rem;
 }
 
 .timeline-item ul {
@@ -432,6 +424,7 @@ nav {
 .timeline-item li {
     margin-bottom: 0.75rem;
     color: var(--text-secondary);
+    font-size: 1.05rem;
 }
 
 /* Skills */
@@ -630,7 +623,9 @@ footer {
     .hero p {
         padding: 0 1rem;
     }
-}/* --- Dynamic Animations --- */
+}
+
+/* --- Dynamic Animations --- */
 
 /* Keyframes */
 @keyframes fadeInUp {
