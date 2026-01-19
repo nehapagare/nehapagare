@@ -441,9 +441,15 @@ footer {
         max-width: 50%;
     }
 
-    .footer-left .section-title::after {
-        margin-left: 0;
-        margin-right: auto;
+    .footer-right {
+        justify-content: flex-end;
+        /* Align right column to the right edge */
+        flex: 1;
+    }
+
+    .resume-download-card {
+        margin-left: auto;
+        /* Push to the right */
     }
 
     .contact-links {
