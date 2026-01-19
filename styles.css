@@ -256,6 +256,24 @@ nav {
     background: white;
     border: 2px solid var(--primary-color);
     border-radius: 50%;
+    z-index: 2;
+}
+
+.company-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.company-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    background: white;
+    padding: 2px;
+    border-radius: 4px;
+    border: 1px solid #E5E7EB;
 }
 
 .job-title {
@@ -263,6 +281,7 @@ nav {
     margin-bottom: 0.25rem;
     color: var(--primary-color);
 }
+
 
 .company {
     font-family: var(--font-body);
@@ -333,7 +352,11 @@ nav {
     font-weight: 600;
     transition: all 0.2s;
     border: 1px solid #D1FAE5;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
 }
+
 
 .tag:hover {
     background-color: var(--primary-color);
@@ -349,8 +372,19 @@ footer {
     text-align: center;
 }
 
-.footer .section-title {
+/* Explicit centering for footer title */
+footer .section-title {
     color: white;
+    margin-left: auto;
+    margin-right: auto;
+    left: auto;
+    transform: none;
+    display: block;
+}
+
+footer .section-title::after {
+    margin: 1rem auto 0;
+    width: 60px;
 }
 
 .contact-links {
@@ -376,6 +410,22 @@ footer {
     font-size: 0.875rem;
     margin-top: 3rem;
 }
+
+/* QR Code */
+.resume-download {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.qr-container {
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
 
 /* Mobile Responsive */
 @media (max-width: 768px) {

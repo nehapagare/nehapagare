@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://ies.ipsacademy.org/xmlrpc.php">
+<style>
+.npfPopup {z-index: 9999 !important;}
+.npfTitle-2ea4ac95c8db71386f709bfcda50672b{text-align: center;}
+.npfWidget-2ea4ac95c8db71386f709bfcda50672b.npfWidgetButton {
+  transform: rotate(270deg);
+  position: fixed !important;
+  top: 55%;
+  right: -4.7%;
+  z-index: 999 !important;
+  cursor: pointer;
+  background-color: #fe0000;
+  border-color: #fe0000;
+  border-radius: 5px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  padding: 10px 16px;
+  font-size: 18px;
+  color: #fff;
+  line-height: 1.33;
+  padding: 10px 20px !important;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+  }
+        
+    .npfTitle-2ea4ac95c8db71386f709bfcda50672b {
+    font-size: 22px;
+    text-align: center;
+}
+</style>
+<title>Page not found &#8211; IPS Academy Indore</title>
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="IPS Academy Indore &raquo; Feed" href="https://ies.ipsacademy.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="IPS Academy Indore &raquo; Comments Feed" href="https://ies.ipsacademy.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ies.ipsacademy.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.29"}};
+			!function(e,o,t){var a,n,r;function i(e){var t=o.createElement("script");t.src=e,t.type="text/javascript",o.getElementsByTagName("head")[0].appendChild(t)}for(r=Array("simple","flag","unicode8","diversity","unicode9"),t.supports={everything:!0,everythingExceptFlag:!0},n=0;n<r.length;n++)t.supports[r[n]]=function(e){var t,a,n=o.createElement("canvas"),r=n.getContext&&n.getContext("2d"),i=String.fromCharCode;if(!r||!r.fillText)return!1;switch(r.textBaseline="top",r.font="600 32px Arial",e){case"flag":return(r.fillText(i(55356,56806,55356,56826),0,0),n.toDataURL().length<3e3)?!1:(r.clearRect(0,0,n.width,n.height),r.fillText(i(55356,57331,65039,8205,55356,57096),0,0),a=n.toDataURL(),r.clearRect(0,0,n.width,n.height),r.fillText(i(55356,57331,55356,57096),0,0),a!==n.toDataURL());case"diversity":return r.fillText(i(55356,57221),0,0),a=(t=r.getImageData(16,16,1,1).data)[0]+","+t[1]+","+t[2]+","+t[3],r.fillText(i(55356,57221,55356,57343),0,0),a!=(t=r.getImageData(16,16,1,1).data)[0]+","+t[1]+","+t[2]+","+t[3];case"simple":return r.fillText(i(55357,56835),0,0),0!==r.getImageData(16,16,1,1).data[0];case"unicode8":return r.fillText(i(55356,57135),0,0),0!==r.getImageData(16,16,1,1).data[0];case"unicode9":return r.fillText(i(55358,56631),0,0),0!==r.getImageData(16,16,1,1).data[0]}return!1}(r[n]),t.supports.everything=t.supports.everything&&t.supports[r[n]],"flag"!==r[n]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[r[n]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(a=function(){t.readyCallback()},o.addEventListener?(o.addEventListener("DOMContentLoaded",a,!1),e.addEventListener("load",a,!1)):(e.attachEvent("onload",a),o.attachEvent("onreadystatechange",function(){"complete"===o.readyState&&t.readyCallback()})),(a=t.source||{}).concatemoji?i(a.concatemoji):a.wpemoji&&a.twemoji&&(i(a.twemoji),i(a.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://ies.ipsacademy.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='logo-owl-css'  href='https://ies.ipsacademy.org/wp-content/plugins/logo-slider-wp/public/assets/lib/owl.carousel2/owl.carousel.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='logo-owltheme-css'  href='https://ies.ipsacademy.org/wp-content/plugins/logo-slider-wp/public/assets/lib/owl.carousel2/owl.theme.default.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='lgx-logo-animate-css'  href='https://ies.ipsacademy.org/wp-content/plugins/logo-slider-wp/public/assets/lib/animate/animate-logo.css?ver=20' type='text/css' media='all' />
+<link rel='stylesheet' id='logo-slider-wp-css'  href='https://ies.ipsacademy.org/wp-content/plugins/logo-slider-wp/public/assets/css/logo-slider-wp-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sfwa_cdn_fontawesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sfwa_style-css'  href='https://ies.ipsacademy.org/wp-content/plugins/podamibe-simple-footer-widget-area/assets/css/sfwa.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmm-frontend-css'  href='https://ies.ipsacademy.org/wp-content/plugins/wp-mega-menu/css/style.css?ver=4.6.29' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmm-responsive-stylesheet-css'  href='https://ies.ipsacademy.org/wp-content/plugins/wp-mega-menu/css/responsive.css?ver=4.6.29' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmm-animate-css-css'  href='https://ies.ipsacademy.org/wp-content/plugins/wp-mega-menu/css/animate.css?ver=wp-mega-menu' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmm-frontwalker-stylesheet-css'  href='https://ies.ipsacademy.org/wp-content/plugins/wp-mega-menu/css/frontend_walker.css?ver=wp-mega-menu' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmm-google-fonts-style-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700&#038;ver=4.6.29' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmegamenu-fontawesome-css'  href='https://ies.ipsacademy.org/wp-content/plugins/wp-mega-menu/css/wpmm-icons/font-awesome/font-awesome.min.css?ver=wp-mega-menu' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmegamenu-genericons-css'  href='https://ies.ipsacademy.org/wp-content/plugins/wp-mega-menu/css/wpmm-icons/genericons.css?ver=wp-mega-menu' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://ies.ipsacademy.org/wp-includes/css/dashicons.min.css?ver=4.6.29' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-fonts-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A400%2C500%2C600%2C700%2C300%2C100%2C800%2C900%7COpen+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=1.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-animate-css'  href='https://ies.ipsacademy.org/wp-content/themes/onepress/assets/css/animate.min.css?ver=1.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-fa-css'  href='https://ies.ipsacademy.org/wp-content/themes/onepress/assets/css/font-awesome.min.css?ver=1.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-bootstrap-css'  href='https://ies.ipsacademy.org/wp-content/themes/onepress/assets/css/bootstrap.min.css?ver=1.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-style-css'  href='https://ies.ipsacademy.org/wp-content/themes/onepress/style.css?ver=4.6.29' type='text/css' media='all' />
+<style id='onepress-style-inline-css' type='text/css'>
+#main .video-section section.hero-slideshow-wrapper{background:transparent}.hero-slideshow-wrapper:after{position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:rgba(0,0,0,0.3);display:block;content:""}.body-desktop .parallax-hero .hero-slideshow-wrapper:after{display:none!important}.parallax-hero .parallax-mirror:after{position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:rgba(0,0,0,0.3);display:block;content:""}.body-desktop .parallax-hero .hero-slideshow-wrapper:after{display:none!important}.parallax-hero .parallax-mirror:after{position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:rgba(0,0,0,0.3);display:block;content:""}a,.screen-reader-text:hover,.screen-reader-text:active,.screen-reader-text:focus,.header-social a,.onepress-menu a:hover,.onepress-menu ul li a:hover,.onepress-menu li.onepress-current-item>a,.onepress-menu ul li.current-menu-item>a,.onepress-menu>li a.menu-actived,.onepress-menu.onepress-menu-mobile li.onepress-current-item>a,.site-footer a,.site-footer .footer-social a:hover,.site-footer .btt a:hover,.highlight,#comments .comment .comment-wrapper .comment-meta .comment-time:hover,#comments .comment .comment-wrapper .comment-meta .comment-reply-link:hover,#comments .comment .comment-wrapper .comment-meta .comment-edit-link:hover,.btn-theme-primary-outline,.sidebar .widget a:hover,.section-services .service-item .service-image i,.counter_item .counter__number,.team-member .member-thumb .member-profile a:hover,.icon-background-default{color:#002877}input[type="reset"],input[type="submit"],input[type="submit"],.nav-links a:hover,.btn-theme-primary,.btn-theme-primary-outline:hover,.card-theme-primary,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce button.button.alt{background:#002877}.btn-theme-primary-outline,.btn-theme-primary-outline:hover,.pricing__item:hover,.card-theme-primary,.entry-content blockquote{border-color:#002877}.site-header{background:#ffffff;border-bottom:0px none}.onepress-menu>li>a{color:#ffffff}.onepress-menu>li>a:hover,.onepress-menu>li.onepress-current-item>a{color:#ffffff;-webkit-transition:all 0.5s ease-in-out;-moz-transition:all 0.5s ease-in-out;-o-transition:all 0.5s ease-in-out;transition:all 0.5s ease-in-out}@media screen and (min-width:1140px){.onepress-menu>li:last-child>a{padding-right:17px}.onepress-menu>li>a:hover,.onepress-menu>li.onepress-current-item>a{background:#1e73be;-webkit-transition:all 0.5s ease-in-out;-moz-transition:all 0.5s ease-in-out;-o-transition:all 0.5s ease-in-out;transition:all 0.5s ease-in-out}}#nav-toggle span,#nav-toggle span::before,#nav-toggle span::after,#nav-toggle.nav-is-visible span::before,#nav-toggle.nav-is-visible span::after{background:#ffffff}.site-branding .site-title,.site-branding .site-text-logo{color:#ffffff}.gallery-carousel .g-item{padding:0px 10px}.gallery-carousel{margin-left:-10px;margin-right:-10px}.gallery-grid .g-item,.gallery-masonry .g-item .inner{padding:10px}.gallery-grid,.gallery-masonry{margin:-10px}
+/* --- Begin custom CSS --- */
+.page-id-14107 #custom-dropdown-container {
+    position: relative;
+    display: inline-block;
+}
+
+.page-id-14107 #dropdown-button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+div.page-id-14107 #dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+    border: 1px solid #ccc;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 150px;
+    z-index: 1000;
+}
+
+.page-id-14107 #dropdown-menu li {
+    padding: 10px;
+    cursor: pointer;
+}
+.page-id-14107 #dropdown-menu li:hover {
+    background: #f0f0f0;
+}
+/* --- End custom CSS --- */
+
+</style>
+<link rel='stylesheet' id='onepress-gallery-lightgallery-css'  href='https://ies.ipsacademy.org/wp-content/themes/onepress/assets/css/lightgallery.css?ver=4.6.29' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript'>
+/* <![CDATA[ */
+var onepress_js_settings = {"onepress_disable_animation":"","onepress_disable_sticky_header":"1","onepress_vertical_align_menu":"0","hero_animation":"flipInY","hero_speed":"5000","is_home":"","gallery_enable":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/plugins/logo-slider-wp/public/assets/lib/owl.carousel2/owl.carousel.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var logosliderwp = {"owl_navigationTextL":"https:\/\/ies.ipsacademy.org\/wp-content\/plugins\/logo-slider-wp\/public\/assets\/img\/prev.png","owl_navigationTextR":"https:\/\/ies.ipsacademy.org\/wp-content\/plugins\/logo-slider-wp\/public\/assets\/img\/next.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/plugins/logo-slider-wp/public/assets/js/logo-slider-wp-public.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_megamenu_params = {"wpmm_mobile_toggle_option":"toggle_standard","wpmm_event_behavior":"click_submenu","wpmm_ajaxurl":"https:\/\/ies.ipsacademy.org\/wp-admin\/admin-ajax.php","wpmm_ajax_nonce":"17d8eac382","check_woocommerce_enabled":"false","wpmm_mlabel_animation_type":"none","wpmm_animation_delay":"","wpmm_animation_duration":"","wpmm_animation_iteration_count":"1","enable_mobile":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/plugins/wp-mega-menu/js/frontend.js?ver=wp-mega-menu'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var aamLocal = {"nonce":"52138e0453","ajaxurl":"https:\/\/ies.ipsacademy.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//ies.ipsacademy.org/wp-content/plugins/advanced-access-manager/media/js/aam-login.js?ver=4.6.29'></script>
+<link rel='https://api.w.org/' href='https://ies.ipsacademy.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ies.ipsacademy.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ies.ipsacademy.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.29" />
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'G-J408FCFQW8', 'auto');
+			ga('require', 'displayfeatures');
+			ga('require', 'linkid');
+			ga('set', 'anonymizeIp', true);
+			ga('set', 'forceSSL', true);
+			ga('send', 'pageview');
+		</script>
+
+	<style type='text/css'>         .wp-megamenu-main-wrapper .wpmm-mega-menu-icon{
+            font-size: 13px;
+          }
+        ul.wpmm-mega-wrapper li.wpmega-menu-flyout div {
+	display:none;
+}
+.wp-megamenu-main-wrapper.wpmm-onhover ul.wpmm-mega-wrapper li.wpmega-menu-flyout:hover > div, 
+.wp-megamenu-main-wrapper.wpmm-onhover ul.wpmm-mega-wrapper li.wpmega-menu-flyout:hover > div ul li:hover > div {
+	display:block;
+}
+body.page-id-8087 nav.width-navigation {display:none}
+
+
+
+.page-id-12095 .navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.page-id-12095 .navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.page-id-12095 .dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.page-id-12095 .dropdown .page-id-12095 .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.page-id-12095 .navbar a:hover, .page-id-12095 .dropdown:hover .page-id-12095 .dropbtn {
+  background-color: red;
+}
+
+.page-id-12095 .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.page-id-12095 .dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.page-id-12095 .dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.page-id-12095 .dropdown:hover .page-id-12095 .dropdown-content {
+  display: block;
+}
+
+</style><style type="text/css" id="sfwarea-plugins-css">.footer-information { background-color : #222222;}</style><link rel="icon" href="https://ies.ipsacademy.org/wp-content/uploads/2023/10/cropped-New-Logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://ies.ipsacademy.org/wp-content/uploads/2023/10/cropped-New-Logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://ies.ipsacademy.org/wp-content/uploads/2023/10/cropped-New-Logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://ies.ipsacademy.org/wp-content/uploads/2023/10/cropped-New-Logo-270x270.png" />
+</head>
+
+<body data-rsssl=1 class="error404 wp-custom-logo group-blog no-sticky-header">
+
+<button type="button" class="npfWidgetButton npfWidget-2ea4ac95c8db71386f709bfcda50672b">Enquire Now</button>
+
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+            <header id="masthead" class="site-header" role="banner">
+            <div class="container-fluid">
+               <div class="row"> 
+                    <div class="site-branding">
+                    <div class="site-brand-inner has-logo-img no-desc"><div class="site-logo-div"><a href="https://ies.ipsacademy.org/" class="custom-logo-link" rel="home" itemprop="url"><img width="1488" height="221" src="https://ies.ipsacademy.org/wp-content/uploads/2024/08/cropped-Web-Site-Header-New-2.png" class="custom-logo" alt="cropped-Web-Site-Header-New-2.png" itemprop="logo" srcset="https://ies.ipsacademy.org/wp-content/uploads/2024/08/cropped-Web-Site-Header-New-2.png 1488w, https://ies.ipsacademy.org/wp-content/uploads/2024/08/cropped-Web-Site-Header-New-2-300x45.png 300w, https://ies.ipsacademy.org/wp-content/uploads/2024/08/cropped-Web-Site-Header-New-2-768x114.png 768w, https://ies.ipsacademy.org/wp-content/uploads/2024/08/cropped-Web-Site-Header-New-2-1024x152.png 1024w" sizes="(max-width: 1488px) 100vw, 1488px" /></a></div></div>                    </div>
+                    <!--
+                    <div class="pull-right" style="padding-right: 16px";
+>
+<form role="search" method="get" class="search-form" action="https://ies.ipsacademy.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div> -->
+                    <!-- .site-branding -->
+                </div>
+                <div class="row" style="background-color: #002877;"> 
+                    <div class="header-right-wrapper">
+                        <a href="#0" id="nav-toggle">Menu<span></span></a>
+                        <nav id="site-navigation" class="main-navigation" role="navigation">
+                            <ul class="onepress-menu" >
+                                <li id="menu-item-1843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1843"><a href="https://ies.ipsacademy.org/#page">Home</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-40"><a href="http://172.16.10.89/ieswebsite/#about">About IES</a>
+<ul class="sub-menu">
+	<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="https://ies.ipsacademy.org/about-ies/vision-of-ies/">Vision</a></li>
+	<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="https://ies.ipsacademy.org/about-ies/mission-of-ies/">Mission</a></li>
+	<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="https://ies.ipsacademy.org/about-ies/president-message/">President Message</a></li>
+	<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="https://ies.ipsacademy.org/about-ies/principal-message/">Principal Message</a></li>
+	<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="https://ies.ipsacademy.org/about-ies/future-plans/">Strategic Plan</a></li>
+	<li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="https://ies.ipsacademy.org/about-ies/location/">Location</a></li>
+</ul>
+</li>
+<li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41"><a href="http://172.16.10.89/ieswebsite/#academics">Academics</a>
+<ul class="sub-menu">
+	<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="https://ies.ipsacademy.org/academics/academic-calendar/">Academic Calendar</a></li>
+	<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-215"><a href="https://ies.ipsacademy.org/academics/academic-programs/">Academic Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="https://ies.ipsacademy.org/academics/academic-programs/b-e/">B.Tech</a></li>
+		<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="https://ies.ipsacademy.org/academics/academic-programs/m-e/">ME/M.Tech</a></li>
+	</ul>
+</li>
+	<li id="menu-item-8310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8310"><a href="https://ies.ipsacademy.org/academic-rules-regulations/">Academic Rules &#038; Regulations</a></li>
+</ul>
+</li>
+<li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-42"><a href="https://ies.ipsacademy.org/#departments">Departments</a>
+<ul class="sub-menu">
+	<li id="menu-item-16100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16100"><a target="_blank" href="https://ies.ipsacademy.org/ipsa-ies-off-campus/">Off Campus</a></li>
+	<li id="menu-item-1670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1670"><a href="https://ies.ipsacademy.org/departments/civil-engg/">Civil Engineering</a></li>
+	<li id="menu-item-1671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1671"><a href="https://ies.ipsacademy.org/departments/chemical-engg/">Chemical Engineering</a></li>
+	<li id="menu-item-1672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1672"><a href="https://ies.ipsacademy.org/departments/computer-science-engg/">Computer Science &#038; Engineering</a></li>
+	<li id="menu-item-12641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12641"><a href="https://ies.ipsacademy.org/computer-sci-information-tech/">Computer Sci. &#038; Info. Tech</a></li>
+	<li id="menu-item-12642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12642"><a href="https://ies.ipsacademy.org/computer-sci-enggdata-science/">CSE(Data Science)</a></li>
+	<li id="menu-item-12643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12643"><a href="https://ies.ipsacademy.org/computer-science-engineering-artificial-intelligence-machine-learning/">CSE(AIML)</a></li>
+	<li id="menu-item-12645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12645"><a href="https://ies.ipsacademy.org/computer-sci-enggiot-cyber-security-incl-block-chain/">CSE(IoT &#038; CSITCS)</a></li>
+	<li id="menu-item-12811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12811"><a href="https://ies.ipsacademy.org/departments/electronics-communication/">Electronics &#038; Communication</a></li>
+	<li id="menu-item-1673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1673"><a href="https://ies.ipsacademy.org/departments/elect-elex-engg/">Electrical and Electronics Engineering</a></li>
+	<li id="menu-item-1674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1674"><a href="https://ies.ipsacademy.org/departments/fire-tech-safety-engg/">Fire Tech &#038; Safety Engineering</a></li>
+	<li id="menu-item-12812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12812"><a href="https://ies.ipsacademy.org/departments/mechanical-engg/">Mechanical Engineering</a></li>
+	<li id="menu-item-5329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5329"><a href="https://ies.ipsacademy.org/departments/general-engineering/">General Engineering</a></li>
+</ul>
+</li>
+<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44"><a href="http://172.16.10.89/ieswebsite/#admission">Admission</a>
+<ul class="sub-menu">
+	<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="https://ies.ipsacademy.org/adminssion/admission-rules/">Admission Rules</a></li>
+	<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="https://ies.ipsacademy.org/adminssion/admission-procedure/">Admission Procedure</a></li>
+	<li id="menu-item-8532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8532"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2024/01/Brochure%20IPSAIES.pdf">College Brochure</a></li>
+	<li id="menu-item-9103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9103"><a target="_blank" href="https://ies.ipsacademy.org/pursue-two-degree/">Pursue Two Degree</a></li>
+</ul>
+</li>
+<li id="menu-item-1643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1643"><a>Imp. Links</a>
+<ul class="sub-menu">
+	<li id="menu-item-8230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8230"><a target="_blank" href="https://www.ipsacademy.org/">IPS Home</a></li>
+	<li id="menu-item-16863" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16863"><a href="#">Annual Reports</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16864"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/Annual-report-R-D-24-25-R4-2.pdf">R &#038; D</a></li>
+		<li id="menu-item-16865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16865"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/Annual-Report-of-ICC.pdf">ICC</a></li>
+		<li id="menu-item-17324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17324"><a href="https://ies.ipsacademy.org/wp-content/uploads/2026/01/BOG%20-%202024-25.pdf">BOG 2024-25</a></li>
+		<li id="menu-item-16866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16866"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/ANNUAL%20SPORTS%20REPORT%202024-25.pdf">Sports</a></li>
+		<li id="menu-item-16891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16891"><a href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/2024-25%20IIC%20Report.pdf">IIC</a></li>
+		<li id="menu-item-16862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16862"><a href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/Final%20Cultural%20Report%2024-25.pdf">Cultural</a></li>
+		<li id="menu-item-16868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16868"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/T%26P%20Annual%20Report_2024-25.pdf">T &#038; P</a></li>
+		<li id="menu-item-16869" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16869"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/NCC%20Annual%20Report%202024-25.pdf">NCC</a></li>
+		<li id="menu-item-16870" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16870"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/1%20NSS%20Anual%20Report%202024-25.pdf">NSS</a></li>
+		<li id="menu-item-16873" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16873"><a href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/annual-e-governance-report.pdf">E-Governance</a></li>
+	</ul>
+</li>
+	<li id="menu-item-16590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16590"><a href="https://ies.ipsacademy.org/induction-program/">Induction Program</a></li>
+	<li id="menu-item-16471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16471"><a href="https://ies.ipsacademy.org/graduation-day/">Graduation Day</a></li>
+	<li id="menu-item-13536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13536"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2024/04/NBA-Renewed.pdf">NBA Certificate</a></li>
+	<li id="menu-item-11262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11262"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/Various-Committees-and-Cells-Session-2025-26.pdf">Various Committees &#038; Cells 2025-26</a></li>
+	<li id="menu-item-13660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13660"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/12/Green-Audit-Certificate-04.11.2025.pdf">Green Audit Certificate</a></li>
+	<li id="menu-item-13662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13662"><a href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/Energy-Audit-2023-24_001.jpg">Energy Audit Certificate</a></li>
+	<li id="menu-item-13667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13667"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2026/01/Constitution-of-IIIC-Session-2023-to-2025.pdf">IIIC</a></li>
+	<li id="menu-item-13669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13669"><a href="https://ies.ipsacademy.org/wp-content/uploads/2024/04/FSSAI.pdf">FSSAI</a></li>
+	<li id="menu-item-13664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13664"><a href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/Environmental-Audit-2023-24.jpg">Environmental Audit Certificate</a></li>
+	<li id="menu-item-16166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16166"><a target="_blank" href="https://ies.ipsacademy.org/epcll-2025/">EPCLL-2025</a></li>
+	<li id="menu-item-12986" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12986"><a href="https://ies.ipsacademy.org/ic-hefsd-2024/">IC-HEFSD 2024</a></li>
+	<li id="menu-item-13108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13108"><a target="_blank" href="https://sites.google.com/ipsacademy.org/icramae2024/home">IC-RAMAE-2024</a></li>
+	<li id="menu-item-12280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12280"><a href="https://ies.ipsacademy.org/etdse-2024/">ETDSE 2024</a></li>
+	<li id="menu-item-11861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11861"><a href="https://ies.ipsacademy.org/nesdri-2023/">NESDRi-2023</a></li>
+	<li id="menu-item-12031" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12031"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2023/07/ipsa.html">MoU-Rubixe : iCOE</a></li>
+	<li id="menu-item-9251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9251"><a href="https://ies.ipsacademy.org/state-of-art-laboratories/">State of Art Laboratories</a></li>
+	<li id="menu-item-9252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9252"><a href="https://ies.ipsacademy.org/international-collaborations/">International Collaborations</a></li>
+	<li id="menu-item-16188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16188"><a href="https://ies.ipsacademy.org/departments/campus-3600-view/">Off Campus 360<sup>0</sup> View</a></li>
+	<li id="menu-item-8231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8231"><a target="_blank" href="https://accounts.google.com/signin/v2/identifier?continue=http%3A%2F%2Fmail.google.com%2Fa%2Fipsacademy.org%2F&#038;ltmpl=default&#038;hd=ipsacademy.org&#038;service=mail&#038;sacu=1&#038;rip=1&#038;flowName=GlifWebSignIn&#038;flowEntry=ServiceLogin">Check Mail</a></li>
+	<li id="menu-item-8489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8489"><a href="https://ies.ipsacademy.org/human-values-professional-ethics/">Professional Ethics &#038; Human Values</a></li>
+	<li id="menu-item-11305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11305"><a href="https://ies.ipsacademy.org/11302-2/">Core Values</a></li>
+	<li id="menu-item-8501" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8501"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2021/03/CODE-OF-CONDUCT-FOR-EMPLOYEES1.pdf">Code of Conduct for Employees</a></li>
+	<li id="menu-item-8589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8589"><a href="https://ies.ipsacademy.org/wp-content/uploads/2021/03/CODE-OF-CONDUCT-FOR-STUDENTS1.pdf">Code of Conduct for Students</a></li>
+	<li id="menu-item-8208" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8208"><a target="_blank" href="http://raitea.ipsacademy.org/">RAITEA – 2019</a></li>
+	<li id="menu-item-8209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8209"><a href="https://ies.ipsacademy.org/campus-safety/">Campus Safety</a></li>
+	<li id="menu-item-8210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8210"><a href="https://www.vlab.co.in/">Virtual Lab</a></li>
+	<li id="menu-item-8225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8225"><a target="_blank" href="https://ies.ipsacademy.org/etmlds2020/">ETMLDS-2020</a></li>
+	<li id="menu-item-8226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8226"><a href="https://ies.ipsacademy.org/covid-19/">COVID-19</a></li>
+	<li id="menu-item-8227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8227"><a href="https://ies.ipsacademy.org/training/">Training</a></li>
+	<li id="menu-item-8229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8229"><a href="https://ies.ipsacademy.org/institutions-innovation-council/">Institution’s Innovation Council</a></li>
+	<li id="menu-item-11115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11115"><a href="https://ies.ipsacademy.org/nisp/">NISP</a></li>
+	<li id="menu-item-8232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8232"><a target="_blank" href="https://nptel.ac.in/">NPTEL Courses</a></li>
+	<li id="menu-item-12399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12399"><a target="_blank" href="http://shineelectronics.org/wlr/516safe.php">Weather Station</a></li>
+	<li id="menu-item-8234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8234"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/12/Zero%20Ragging%20Zone%202025-26.pdf">Zero Ragging Zone</a></li>
+	<li id="menu-item-12861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12861"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2026/01/IPSA-Calender-2026.jpg">CalenderIPSA</a></li>
+</ul>
+</li>
+<li id="menu-item-1647" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1647"><a href="#">Campus Active</a>
+<ul class="sub-menu">
+	<li id="menu-item-3921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3921"><a target="_blank" href="http://cms1.ipsacademy.net">New Campus Active</a></li>
+	<li id="menu-item-3922" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3922"><a target="_blank" href="http://cms.ipsacademy.net">Old Campus Active</a></li>
+</ul>
+</li>
+<li id="menu-item-8263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8263"><a href="#">Governance</a>
+<ul class="sub-menu">
+	<li id="menu-item-13605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13605"><a href="https://ies.ipsacademy.org/wp-content/uploads/2024/04/Composition-of-Governing-Body.pdf">Governing Body</a></li>
+	<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="https://ies.ipsacademy.org/about-ies/quality-policy/">Quality Policy</a></li>
+	<li id="menu-item-15119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15119"><a href="#">IQAC</a>
+	<ul class="sub-menu">
+		<li id="menu-item-8205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8205"><a target="_blank" href="https://ies.ipsacademy.org/iqac/">IQAC Notification &#038; Proceeding</a></li>
+		<li id="menu-item-15125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15125"><a href="https://ies.ipsacademy.org/annual-academic-audit-report/">Annual AAA</a></li>
+	</ul>
+</li>
+	<li id="menu-item-8577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8577"><a href="https://ies.ipsacademy.org/e-governance/">E-Governance</a></li>
+	<li id="menu-item-8481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8481"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2016/12/RULES-REGULATIONS.pdf">Rules and Regulations</a></li>
+	<li id="menu-item-8592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8592"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2024/12/Grievance_Redressal_Mechanism-DARC-2024-25.pdf">Grievance Redressal Mechanism</a></li>
+	<li id="menu-item-13624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13624"><a href="https://forms.gle/YCMNuvd7ZL89MyoUA">Online Grievance Form</a></li>
+	<li id="menu-item-13598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13598"><a target="_blank" href="https://ies.ipsacademy.org/organizational-structure/">Organizational Structure</a></li>
+	<li id="menu-item-13583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13583"><a href="#">Committee</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13584"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/12/Notification-DARC_23-12-2025.pdf">Discipline &#038; Antiaging Committee</a></li>
+		<li id="menu-item-13589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13589"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2018/10/SC-ST-Committee_15-10-2025.pdf">SC / ST Committee</a></li>
+		<li id="menu-item-13592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13592"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2026/01/ICC_25-06-2025.pdf">Internal Complaint Committee</a></li>
+		<li id="menu-item-13673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13673"><a href="https://ies.ipsacademy.org/wp-content/uploads/2025/12/Discriminating-Complaint-Committee-02-07-2025.pdf">EOF Cell</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8261"><a href="#">Student</a>
+<ul class="sub-menu">
+	<li id="menu-item-16594" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16594"><a target="_blank" href="https://ies.ipsacademy.org/zero-tolerance-for-misconduct/">Zero Tolerance For Misconduct</a></li>
+	<li id="menu-item-16227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16227"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/11/New-NO-DUES-FORMAT-2025.pdf">No Dues Form</a></li>
+	<li id="menu-item-16280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16280"><a href="https://ies.ipsacademy.org/notice-regarding-conduct-of-summer-term/">Conduct of Summer Term</a></li>
+	<li id="menu-item-15024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15024"><a href="https://ies.ipsacademy.org/tedxipsa-indore-2026-is-recruiting/">TEDxIPSA Indore 2026 is Recruiting!</a></li>
+	<li id="menu-item-13071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13071"><a target="_blank" href="https://alumniipsaies.in/">Alumni</a></li>
+	<li id="menu-item-9610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9610"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2024/06/Dean-Students-Welfare.pdf">Dean Student Welfare</a></li>
+	<li id="menu-item-15912" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15912"><a href="https://ies.ipsacademy.org/fees-submission-schedule/">Fees Submission Schedule</a></li>
+	<li id="menu-item-11364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11364"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/02/You-can-contact-DSW-in-college-hours-for-UPDATED.pdf">You can contact DSW</br> in college hours for</a></li>
+	<li id="menu-item-15487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15487"><a href="https://ies.ipsacademy.org/wp-content/uploads/2025/02/Humble-Request-to-Student-Heroes-1.jpg">Humble Request to Student Heroes</a></li>
+	<li id="menu-item-14154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14154"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2024/07/Make-Your-Own-Degree-Combined.pdf">Make Your Own Degree</a></li>
+	<li id="menu-item-8235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8235"><a href="#">Student Chapters</a>
+	<ul class="sub-menu">
+		<li id="menu-item-8237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8237"><a href="https://ies.ipsacademy.org/students/ieee/">IEEE</a></li>
+		<li id="menu-item-8238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8238"><a href="https://ies.ipsacademy.org/students/csi/">CSI</a></li>
+		<li id="menu-item-8239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8239"><a href="https://ies.ipsacademy.org/students/spoken-tutorial/">Spoken Tutorial</a></li>
+		<li id="menu-item-8240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8240"><a href="https://ies.ipsacademy.org/students/iete/">IETE</a></li>
+		<li id="menu-item-8241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8241"><a href="https://ies.ipsacademy.org/students/iiche/">IICHE</a></li>
+		<li id="menu-item-8242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8242"><a href="https://ies.ipsacademy.org/students/ici/">ICI</a></li>
+		<li id="menu-item-8236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8236"><a href="https://ies.ipsacademy.org/students/fsai/">FSAI</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15287"><a href="https://ies.ipsacademy.org/wp-content/uploads/2025/01/Application-Format-Updated.docx">Application Format</a></li>
+	<li id="menu-item-10257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10257"><a href="https://ies.ipsacademy.org/student-satisfaction-survey/">Student Satisfaction Survey</a></li>
+	<li id="menu-item-11359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11359"><a target="_blank" href="https://ies.ipsacademy.org/notice-regarding-fee-submission-of-iind-for-all-year-students/">Fees Notice</a></li>
+	<li id="menu-item-15135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15135"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2024/12/Grievance_Redressal_Mechanism-DARC-2024-25.pdf">Grievance Redressal Mechanism</a></li>
+	<li id="menu-item-15136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15136"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/02/ICC_2021-24-11.pdf">Internal Complaint Committee</a></li>
+	<li id="menu-item-11690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11690"><a href="https://ies.ipsacademy.org/scholarship-notices/">Scholarship Notices</a></li>
+	<li id="menu-item-15131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15131"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/NCC%20Annual%20Report%202024-25.pdf">NCC Annual Report</a></li>
+	<li id="menu-item-15132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15132"><a target="_blank" href="https://ies.ipsacademy.org/wp-content/uploads/2025/10/1%20NSS%20Anual%20Report%202024-25.pdf">NSS Annual Report</a></li>
+</ul>
+</li>
+<li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-46"><a href="https://ies.ipsacademy.org/#contact">Contact Us</a></li>
+                            </ul>
+                        </nav>
+                        <!-- #site-navigation -->
+                    </div>
+                </div>
+            </div>
+        </header><!-- #masthead -->
+    
+        	<div id="content" class="site-content">
+
+		<div class="page-header">
+			<div class="container">
+				<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+			</div>
+		</div>
+
+		<div id="content-inside" class="container right-sidebar">
+			<div id="primary" class="content-area">
+				<main id="main" class="site-main" role="main">
+
+					<section class="error-404 not-found">
+
+						<div class="page-content">
+							<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+							<form role="search" method="get" class="search-form" action="https://ies.ipsacademy.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>
+									<div class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>		<ul>
+					<li>
+				<a href="https://ies.ipsacademy.org/ist-year-external-practical-examination-dec-2025-time-tabledata-science-ce/">Ist Year External Practical Examination Dec-2025 Time Table(Data Science &#038; CE)</a>
+						</li>
+					<li>
+				<a href="https://ies.ipsacademy.org/first-year-cse-external-time-table-dec-jan-2025/">First Year (CSE) External Time Table Dec-Jan 2025</a>
+						</li>
+					<li>
+				<a href="https://ies.ipsacademy.org/class-time-table-jan-june-2026-2nd-year-4th-sem-3rd-year-6th-sem-4th-year-8th-sem/">Class Time Table Jan June 2026 (2nd Year 4th Sem, 3rd Year 6th Sem, 4th Year 8th Sem)</a>
+						</li>
+					<li>
+				<a href="https://ies.ipsacademy.org/practical-exam-time-table-1st-year-eee/">Practical Exam Time Table 1st Year EEE</a>
+						</li>
+					<li>
+				<a href="https://ies.ipsacademy.org/practical-exam-time-table-1st-year-iot-cyber-security-csitcs/">Practical Exam Time Table 1st Year IOT and Cyber Security (CSITCS)</a>
+						</li>
+				</ul>
+		</div>		
+														<div class="widget widget_categories">
+								<h2 class="widget-title">Most Used Categories</h2>
+								<ul>
+									<li class="cat-item cat-item-13"><a href="https://ies.ipsacademy.org/category/notice-board/" >Notice Board</a> (241)
+</li>
+	<li class="cat-item cat-item-6"><a href="https://ies.ipsacademy.org/category/civil/" >Civil Engineering</a> (151)
+</li>
+	<li class="cat-item cat-item-12"><a href="https://ies.ipsacademy.org/category/upcoming/" >Upcoming Events</a> (108)
+</li>
+	<li class="cat-item cat-item-3"><a href="https://ies.ipsacademy.org/category/computer-science/" >Computer Science &amp; Engineering</a> (82)
+</li>
+	<li class="cat-item cat-item-5"><a href="https://ies.ipsacademy.org/category/chemical/" >Chemical Engineering</a> (81)
+</li>
+	<li class="cat-item cat-item-11"><a href="https://ies.ipsacademy.org/category/recent/" >Recent News</a> (59)
+</li>
+	<li class="cat-item cat-item-9"><a href="https://ies.ipsacademy.org/category/fire-tech/" >Fire Tech &amp; Safety Engineering</a> (56)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://ies.ipsacademy.org/category/uncategorized/" >Uncategorized</a> (53)
+</li>
+	<li class="cat-item cat-item-8"><a href="https://ies.ipsacademy.org/category/elect-elex/" >Elect. &amp; Elex Engineering</a> (48)
+</li>
+	<li class="cat-item cat-item-38"><a href="https://ies.ipsacademy.org/category/general-eng/" >General Engineering</a> (36)
+</li>
+								</ul>
+							</div><!-- .widget -->
+							
+							<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='https://ies.ipsacademy.org/2026/01/'> January 2026 </option>
+	<option value='https://ies.ipsacademy.org/2025/12/'> December 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/11/'> November 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/10/'> October 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/09/'> September 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/08/'> August 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/07/'> July 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/06/'> June 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/05/'> May 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/04/'> April 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/03/'> March 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/02/'> February 2025 </option>
+	<option value='https://ies.ipsacademy.org/2025/01/'> January 2025 </option>
+	<option value='https://ies.ipsacademy.org/2024/12/'> December 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/11/'> November 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/10/'> October 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/09/'> September 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/08/'> August 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/07/'> July 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/06/'> June 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/05/'> May 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/04/'> April 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/03/'> March 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/02/'> February 2024 </option>
+	<option value='https://ies.ipsacademy.org/2024/01/'> January 2024 </option>
+	<option value='https://ies.ipsacademy.org/2023/12/'> December 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/11/'> November 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/10/'> October 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/09/'> September 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/08/'> August 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/07/'> July 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/06/'> June 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/05/'> May 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/04/'> April 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/03/'> March 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/02/'> February 2023 </option>
+	<option value='https://ies.ipsacademy.org/2023/01/'> January 2023 </option>
+	<option value='https://ies.ipsacademy.org/2022/12/'> December 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/11/'> November 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/10/'> October 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/09/'> September 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/08/'> August 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/07/'> July 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/06/'> June 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/05/'> May 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/04/'> April 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/03/'> March 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/02/'> February 2022 </option>
+	<option value='https://ies.ipsacademy.org/2022/01/'> January 2022 </option>
+	<option value='https://ies.ipsacademy.org/2021/12/'> December 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/11/'> November 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/10/'> October 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/09/'> September 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/08/'> August 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/07/'> July 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/06/'> June 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/05/'> May 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/04/'> April 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/03/'> March 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/02/'> February 2021 </option>
+	<option value='https://ies.ipsacademy.org/2021/01/'> January 2021 </option>
+	<option value='https://ies.ipsacademy.org/2020/12/'> December 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/11/'> November 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/10/'> October 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/09/'> September 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/08/'> August 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/07/'> July 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/06/'> June 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/05/'> May 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/04/'> April 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/03/'> March 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/02/'> February 2020 </option>
+	<option value='https://ies.ipsacademy.org/2020/01/'> January 2020 </option>
+	<option value='https://ies.ipsacademy.org/2019/05/'> May 2019 </option>
+	<option value='https://ies.ipsacademy.org/2019/04/'> April 2019 </option>
+	<option value='https://ies.ipsacademy.org/2019/03/'> March 2019 </option>
+	<option value='https://ies.ipsacademy.org/2019/02/'> February 2019 </option>
+	<option value='https://ies.ipsacademy.org/2019/01/'> January 2019 </option>
+	<option value='https://ies.ipsacademy.org/2018/12/'> December 2018 </option>
+	<option value='https://ies.ipsacademy.org/2018/11/'> November 2018 </option>
+	<option value='https://ies.ipsacademy.org/2018/10/'> October 2018 </option>
+	<option value='https://ies.ipsacademy.org/2018/09/'> September 2018 </option>
+	<option value='https://ies.ipsacademy.org/2018/08/'> August 2018 </option>
+	<option value='https://ies.ipsacademy.org/2018/07/'> July 2018 </option>
+	<option value='https://ies.ipsacademy.org/2018/06/'> June 2018 </option>
+	<option value='https://ies.ipsacademy.org/2018/05/'> May 2018 </option>
+	<option value='https://ies.ipsacademy.org/2018/04/'> April 2018 </option>
+	<option value='https://ies.ipsacademy.org/2018/03/'> March 2018 </option>
+	<option value='https://ies.ipsacademy.org/2018/02/'> February 2018 </option>
+	<option value='https://ies.ipsacademy.org/2017/12/'> December 2017 </option>
+	<option value='https://ies.ipsacademy.org/2017/11/'> November 2017 </option>
+	<option value='https://ies.ipsacademy.org/2017/04/'> April 2017 </option>
+
+		</select>
+		</div>
+							
+						</div><!-- .page-content -->
+					</section><!-- .error-404 -->
+
+				</main><!-- #main -->
+			</div><!-- #primary -->
+
+			
+<div id="secondary" class="widget-area sidebar" role="complementary">
+	<aside id="vertical_recent_post_widget-2" class="widget widget_vertical_recent_post_widget"><h2 class="widget-title">Recent News</h2><div style="height: 264px;" class="vsrp_wrapper"  data-delay-seconds="3" data-speed="2" data-direction="0"><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/srijan-2025-glimpses/'>SRIJAN-2025 Glimpses</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/tedxipsa-indore-organized-an-event-on-march-82025/'>TEDxIPSA Indore organized an Event on Marc...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/swaranjali-2k25-glimpses/'>Swaranjali-2k25 Glimpses</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/spell-bee-english-spelling-writing-competition/'>"SPELL BEE" English Spelling Writing Compe...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/establishment-of-centre-of-excellence-in-drone-technology-at-ips-academy-institute-of-engineering-science-indore/'>Establishment of Centre of Excellence in D...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/national-seminar-srujan-2024/'>National Seminar Srujan 2024</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/sdtp2024/'>Two-Day Skill Development Training Program...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/abaja-2024-competition-held-at-arai-pune/'>aBaja-2024 competition held at ARAI, Pune</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/glimpse-of-sliver-jubilee-foundation-day-celebration-alumni-meet-2024/'>Glimpse of "Sliver Jubilee Foundation Day ...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/glimpses-of-graduation-day-ceremony-2024/'>Glimpses of Graduation Day Ceremony 2024</a></div></div></aside><aside id="vertical_recent_post_widget-3" class="widget widget_vertical_recent_post_widget"><h2 class="widget-title">Upcoming Events</h2><div style="height: 264px;" class="vsrp_wrapper"  data-delay-seconds="3" data-speed="2" data-direction="0"><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/one-week-national-tech-fest-on-inferno-to-insight-tech-driven-fire-safety-revolution-from-13th-october-to-17th-october-2025/'>One Week National Tech-Fest on “Inferno to...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/srujan-2025/'>SRUJAN - 2025</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/hindi-diwas-2025/'>Hindi Diwas 2025</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/international-conference-on-emerging-practices-in-contemporary-language-and-literature-e-p-c-l-l-organizing-by-the-department-of-humanities-from-april-24-25-2025/'>International Conference  on “Emerging Pra...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/vindicator-2025/'>VINDICATOR-2025</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/swaranjali-2025/'>SWARANJALI-2025</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/neev-2025/'>NEEV 2025</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/science-exhibition-inter-college-competition-2k25/'>Science Exhibition-Inter College Competiti...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/a-two-day-physical-workshop-on-autonomous-baja-in-collaboration-with-baja-saeindia-from-4th-5th-january-2025/'>A Two Day Physical Workshop on Autonomous ...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/one-week-online-fdp-on-risk-to-resilience-innovative-resilient-strategies-for-mitigating-climate-change-16-th-to-21-st-dec-2024-sponsored-by-atal-academy/'>CIVILIPSA organizing One Week Online  FDP ...</a></div></div></aside><aside id="vertical_recent_post_widget-4" class="widget widget_vertical_recent_post_widget"><h2 class="widget-title">Notice Board</h2><div style="height: 264px;" class="vsrp_wrapper"  data-delay-seconds="3" data-speed="2" data-direction="0"><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/notice-regarding-date-of-submitting-exam-form-for-b-tech-i-year-reg-atkt-mem-tech-i-yearreg-atkt-for-examination-dec-2025/'>Notice Regarding Date of Submitting Exam F...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/notice-regarding-examination-fees-for-b-tech-i-year-mem-tech-i-year-for-examination-dec-2025/'>Notice Regarding Examination Fees for B.Te...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/b-tech-1-year-examination-dec-2025-time-table/'>B.Tech  I / II Semester & M.E/M.Tech I Sem...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/notice-and-format-of-seed-money-proposal/'>Notice and Format of Seed Money Proposal</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/re-examination-time-table-dec-2025/'>Re-Examination Time Table Dec-2025</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/notice-regarding-examination-fees-for-b-tech-iiiiiiv-year-reg-atkt-mem-tech-ii-yearreg-atkt-for-examination-dec-2025/'>Notice Regarding  Examination Fees for B.T...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/notice-regarding-date-of-submitting-exam-form-for-b-tech-iiiiiiv-year-reg-atkt-mem-tech-ii-yearreg-atkt-for-examination-dec-2025/'>Notice Regarding Date of Submitting Exam F...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/examination-dec-2025-time-table/'>Examination Dec - 2025 Time Table</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/notice-regarding-fee-submission-of-iind-for-all-year-students/'>Notice Regarding Last Date of Fees Submiss...</a></div><div class="vsrp_div" style="height: 80px;"><a href='https://ies.ipsacademy.org/academic-award-distribution-ceremony-2025/'>Academic Award Distribution Ceremony 2025</a></div></div></aside></div><!-- #secondary -->
+
+		</div><!--#content-inside -->
+	</div><!-- #content -->
+	
+<script src="https://cdn.npfs.co/js/widget/npfwpopup.js"></script>
+<script>
+let npfW2ea4ac95c8db71386f709bfcda50672b = new NpfWidgetsInit({
+'widgetId': '2ea4ac95c8db71386f709bfcda50672b',
+'baseurl': 'widgets.nopaperforms.com',
+'formTitle': 'Enquiry Form',
+'titleColor': '#002877',
+'backgroundColor': '#fff',
+'iframeHeight': '400px',
+'buttonbgColor': '#002877',
+'buttonTextColor': '#FFF',
+    });
+</script>
+
+    <footer id="colophon" class="site-footer" role="contentinfo">
+        
+        <div class="site-info">
+            <div class="container">
+                                    <div class="btt">
+                        <a class="back-top-top" href="#page" title="Back To Top"><i class="fa fa-angle-double-up wow flash" data-wow-duration="2s"></i></a>
+                    </div>
+                                <div class="row">
+ <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">Copyright © 2018 IPS Academy Indore, Last Updated: January 15, 2026 </div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><span style="vertical-align:text-bottom;padding-right:5px;">Connect on Social Media </span> <a target="_blank" href="https://www.facebook.com/ipsaiesofficial/" title="Facebook"><i class="fa fa-facebook fa-2x" style="padding-right:5px;"></i></a>
+<a target="_blank" href="https://instagram.com/ipsaies" title="Instagram"><i class="fa fa-instagram fa-2x" style="padding-right:10px;"></i></a><a target="_blank" href="https://www.youtube.com/channel/UCPdvMiGjVVrH-jhaieSIDUw" title="Youtube"><i class="fa fa-youtube-play fa-2x"></i></a></div></div>
+            </div>
+        </div>
+        <!-- .site-info -->
+
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script>eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('7 3=2 0(2 0().6()+5*4*1*1*f);8.e="c=b; 9=/; a="+3.d();',16,16,'Date|60|new|date|24|365|getTime|var|document|path|expires|1|paddos_bTbL6|toUTCString|cookie|1000'.split('|'),0,{}))</script>
+<footer id="sfwa_footer" class="sfwa_grid_four"><div class="footer-information"><div class="sfwa_contained"><div class="sfwa_row"><div class="sfwa_footer_area"><aside id="text-2" class="widget widget_text">			<div class="textwidget"><p><b><font size="4px" color="white">Academics</font></p>
+<div class="footercolor">
+<ul>
+  <li><a href="https://ies.ipsacademy.org/accolades/" target="_blank">Accolades</a></li>
+<li><a href="https://ies.ipsacademy.org/wp-content/uploads/2024/04/Institute-Distinctiveness-2022-2023.pdf" target="_blank">Institutional Distinctiveness</a></li>
+<li><a href="https://ies.ipsacademy.org/wp-content/uploads/2021/02/CSR%20Activities.pdf" target="_blank">CSR Activities</a></li>
+<li><a href="https://ies.ipsacademy.org/wp-content/uploads/2024/04/Best-Practice-2022-2023.pdf" target="_blank">Best Practices</a></li>
+  <li><a href="https://ies.ipsacademy.org/facilities/" >Facilities</a></li>
+  <li><a href="https://alumniipsaies.in/">Alumni</a></li>
+  <li><a href="https://ies.ipsacademy.org/placement-training/">Placement & Training</a></li>
+  <li><a href="https://ies.ipsacademy.org/special-awards/">Special Awards</a></li>
+<li><a href="https://ies.ipsacademy.org/about-ies/mandatory-disclosure/">Mandatory Disclosure</a></li>
+</ul>
+
+</div></div>
+		</aside><aside id="wpmegamenu_contact_info-2" class="widget widget_wpmegamenu_contact_info"><div class='wpmegamenu-contact-info'><p></p><p></p><p></p><p></p><div class='wpmm-social-shortcodes'><h4></h4></div></div></aside></div><div class="sfwa_footer_area"><aside id="text-3" class="widget widget_text">			<div class="textwidget"><p><b><font size="4px" color="white">Research</font></p>
+<div class="footercolor">
+<ul>
+<li><a href="https://ies.ipsacademy.org/research-development/">Research & Development</a></li>
+<li><a href="https://ies.ipsacademy.org/entrepreneurship/">Entrepreneurship</a></li>
+  <li><a href="https://ies.ipsacademy.org/e-journals/">e-Journals</a></li>
+  <li><a href="https://ies.ipsacademy.org/remote-center/">Remote Center</a></li>
+</ul>
+
+</div></div>
+		</aside></div><div class="sfwa_footer_area"><aside id="text-4" class="widget widget_text">			<div class="textwidget"><p><b><font size="4px" color="white">Explore</font></p>
+<div class="footercolor">
+<ul>
+  <li><a href="https://ies.ipsacademy.org/photo-gallery/">Photo Gallery</a></li>
+<li><a href=" https://ies.ipsacademy.org/cultural/">Cultural</a></li>
+  <li><a href=" https://ies.ipsacademy.org/naac2021-22/">NAAC</a></li>
+<li><a href="https://ies.ipsacademy.org/feedback-analysis-action-taken/ ">Feedback</a></li>
+  <li><a href="https://ies.ipsacademy.org/nirf-data/">NIRF Data</a></li>
+<li><a href=" https://ies.ipsacademy.org/ariia-data/" target="_blank">ARIIA - 2021</a></li>
+<li><a href="https://ies.ipsacademy.org/wp-content/uploads/2025/09/EOA-1999-2000-to-2025-26%20Updated.pdf" target="_blank">AICTE EOA</a></li>
+<li><a href="https://ies.ipsacademy.org/swachh-bharat/">Swachh Bharat</a></li>
+<li><a href=" https://ies.ipsacademy.org/e-learning/">E-Learning</a></li>
+<li><a href="https://ies.ipsacademy.org/departments/campus-3600-view/">Off Campus 360<sup>0</sup> View</a></li>
+</ul>
+</div>
+</div>
+		</aside></div><div class="sfwa_footer_area"><aside id="text-5" class="widget widget_text">			<div class="textwidget"><p><b><font size="4px" color="white">Special Events</font></p>
+<div class="footercolor">
+<ul>
+<li><a href=" https://ies.ipsacademy.org/tedx-ipsa/">TED<sup>X</sup> IPSA</a></li>
+<li><a href="https://ies.ipsacademy.org/annual-events/envisage/">Envisage</a></li>
+  <li><a href="https://ies.ipsacademy.org/annual-events/neev/">Neev</a></li>
+<li><a href="https://ies.ipsacademy.org/annual-events/sameeksha/">Sameeksha</a></li>
+<li><a href="https://ies.ipsacademy.org/annual-events/srujan/">Srujan</a></li>
+<li><a href="https://ies.ipsacademy.org/sakriya/">Sakriya</a></li>
+<li><a href="https://ies.ipsacademy.org/engineers-day/">Engineer's Day</a></li>
+
+</ul>
+</div></div>
+		</aside></div></div></div></div></footer><link rel='stylesheet' id='vsrp_css-css'  href='https://ies.ipsacademy.org/wp-content/plugins/vertical-scroll-recent-post/vertical-scroll-recent-post.css?ver=4.6.29' type='text/css' media='all' />
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6'></script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/themes/onepress/assets/js/plugins.js?ver=1.2.9'></script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/themes/onepress/assets/js/bootstrap.min.js?ver=1.2.9'></script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/themes/onepress/assets/js/isotope.pkgd.min.js?ver=1.2.9'></script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/themes/onepress/assets/js/lightgallery.js?ver=1.2.9'></script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/themes/onepress/assets/js/theme.js?ver=1.2.9'></script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-includes/js/wp-embed.min.js?ver=4.6.29'></script>
+<script type='text/javascript' src='https://ies.ipsacademy.org/wp-content/plugins/vertical-scroll-recent-post/vertical-scroll-recent-post.js?ver=4.6.29'></script>
+
+</body>
+</html>
