@@ -311,13 +311,14 @@ nav {
     height: 100%;
     background-color: rgba(255, 255, 255, 0.75);
     /* More visible map (less white) */
-    z-index: 0;
+    z-index: 1;
+    /* Overlay on top of background but below content */
 }
 
 #map-wrapper .container {
     position: relative;
-    z-index: 1;
-    /* Ensure text sits above the fade overlay */
+    z-index: 10;
+    /* Ensure content sits well above the overlay */
 }
 
 /* Ensure sections inside are transparent */
