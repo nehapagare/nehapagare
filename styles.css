@@ -375,11 +375,19 @@ nav {
 /* Skills */
 .skills-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 2rem;
-    max-width: 1000px;
-    /* Constrain width slightly for better grid look */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    /* Default auto-fit */
+    gap: 1.5rem;
+    max-width: 1200px;
+    /* Increased max-width to fit 3 columns */
     margin: 0 auto;
+}
+
+@media (min-width: 1024px) {
+    .skills-grid {
+        grid-template-columns: repeat(3, 1fr);
+        /* Force 3 columns on large screens */
+    }
 }
 
 .skill-category.wide {
@@ -398,11 +406,15 @@ nav {
     border-bottom: 1px solid #E5E7EB;
     padding-bottom: 0.75rem;
     color: var(--primary-color);
+    text-align: center;
+    /* Center headers */
 }
 
 .skill-tags {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    /* Center tags within card */
     gap: 0.75rem;
 }
 
