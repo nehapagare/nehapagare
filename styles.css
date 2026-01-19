@@ -282,26 +282,27 @@ nav {
 #experience {
     background-image: url('assets/images/world-map.png');
     background-repeat: no-repeat;
-    background-position: 50% 50%;
-    /* Default Center */
-    background-size: cover;
-    /* Cover full area */
+    background-position: center center;
+    background-size: 120%;
+    /* Start slightly zoomed in so we don't see edges if possible, or just cover */
     background-attachment: fixed;
-    /* Creates the dynamic window effect */
     position: relative;
-    transition: background-position 1.5s cubic-bezier(0.25, 0.46, 0.45, 0.94), background-size 1.5s ease-in-out;
+    /* Use a longer, smoother transition */
+    transition: background-position 2s ease-in-out, background-size 2s ease-in-out;
 }
 
 #experience.view-chicago {
-    background-position: 25% 30% !important;
-    /* Force Chicago Position */
-    background-size: 180%;
+    background-position: 20% 40% !important;
+    /* Adjust coordinates for North America */
+    background-size: 220%;
+    /* Significant zoom */
 }
 
 #experience.view-india {
-    background-position: 70% 55% !important;
-    /* Force India Position */
-    background-size: 180%;
+    background-position: 75% 60% !important;
+    /* Adjust coordinates for India/Asia */
+    background-size: 220%;
+    /* Significant zoom */
 }
 
 #experience::before {
