@@ -101,16 +101,21 @@ nav {
 }
 
 .nav-profile-img {
-    width: 45px;
-    height: 45px;
+    width: 65px;
+    /* Increased size */
+    height: 65px;
     border-radius: 50%;
     object-fit: cover;
-    border: 2px solid var(--accent-color);
+    border: 3px solid var(--accent-color);
+    /* Thicker border */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    /* Added shadow for pop */
     transition: transform 0.2s;
 }
 
 .nav-profile-img:hover {
     transform: scale(1.1);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
 }
 
 .logo {
@@ -194,7 +199,8 @@ nav {
 .hero {
     background-color: var(--primary-color);
     color: white;
-    padding: 8rem 0 6rem;
+    padding: 5rem 0 3rem;
+    /* Reduced from 8rem 0 6rem */
     text-align: center;
 }
 
