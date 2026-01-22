@@ -93,6 +93,24 @@ header {
     align-items: center;
 }
 
+/* Scroll Progress Bar */
+.scroll-progress-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: transparent;
+    z-index: 1001;
+}
+
+.scroll-progress-bar {
+    height: 100%;
+    background: var(--accent-color);
+    width: 0%;
+    transition: width 0.1s;
+}
+
 header .container {
     width: 100%;
 }
@@ -193,11 +211,32 @@ nav {
 
 /* Hero Section */
 .hero {
-    background-color: var(--primary-color);
+    background: linear-gradient(-45deg, #0F172A, #1E3A8A, #0F172A, #2e1065);
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
     color: white;
-    padding: 5rem 0 3rem;
-    /* Reduced from 8rem 0 6rem */
+    padding: 6rem 0 4rem;
     text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Animated Gradient Keyframes */
+@keyframes gradientBG {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Typing Effect Cursor */
+.typing-cursor::after {
+    content: '|';
+    animation: blink 1s step-start infinite;
+    color: var(--accent-color);
+}
+
+@keyframes blink {
+    50% { opacity: 0; }
 }
 
 .hero h1 {
@@ -266,6 +305,9 @@ nav {
     border-radius: var(--border-radius);
     box-shadow: var(--shadow-sm);
     border: 1px solid #E5E7EB;
+    /* 3D Tilt settings managed by JS, but adding perspective here helps */
+    transform-style: preserve-3d;
+    transform: perspective(1000px);
 }
 
 /* Experience */
@@ -273,6 +315,31 @@ nav {
     position: relative;
     max-width: 850px;
     margin: 0 auto;
+    padding: 2rem 0;
+}
+
+/* Continuous Vertical Line */
+.timeline::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 20px; /* Aligned with coordinate of bullets */
+    height: 100%;
+    width: 2px;
+    background: #E5E7EB;
+    z-index: 0;
+}
+
+/* Drawing Line (Progress) */
+.timeline-line-progress {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    width: 2px;
+    background: var(--accent-color);
+    height: 0%; /* Will be set by JS */
+    z-index: 1;
+    transition: height 0.1s linear;
 }
 
 /* Map Wrapper (Experience + Education) */
@@ -330,23 +397,30 @@ nav {
 
 .timeline-item {
     margin-bottom: 4rem;
-    padding-left: 2.5rem;
-    border-left: 2px solid #D1FAE5;
-    position: relative;
     /* Removed flex/gap as logo is moving inside */
+    padding-left: 3.5rem; /* Increased to visual separation */
+    border-left: none; /* Removing per-item border for continuous line */
 }
 
 .timeline-item::before {
     content: '';
     position: absolute;
-    left: -6px;
-    top: 6px;
-    width: 10px;
-    height: 10px;
+    left: 15px; /* Centered on the 2px line at left:20px (20 - 5 = 15) */
+    top: 2rem; /* Aligned with top of content roughly */
+    width: 12px;
+    height: 12px;
     background: white;
-    border: 2px solid var(--primary-color);
+    border: 2px solid #E5E7EB;
     border-radius: 50%;
     z-index: 2;
+    transition: all 0.3s ease;
+}
+
+.timeline-item.active::before {
+    background: var(--accent-color);
+    border-color: var(--accent-color);
+    transform: scale(1.3);
+    box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.2);
 }
 
 .timeline-content {

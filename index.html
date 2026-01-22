@@ -25,6 +25,9 @@
 
 <body>
     <header>
+        <div class="scroll-progress-container">
+            <div class="scroll-progress-bar" id="scrollProgressBar"></div>
+        </div>
         <div class="container">
             <nav>
                 <div class="logo">
@@ -49,9 +52,10 @@
             <div class="container">
                 <h1 class="hero-animate"
                     style="font-family: var(--font-heading); font-size: 4rem; margin-bottom: 0.5rem;">Neha Pagare</h1>
-                <p class="hero-animate" style="font-size: 1.5rem; font-weight: 300; margin-bottom: 2rem;">Risk Technical
-                    Project Manager | IT
-                    Project Manager</p>
+                <p class="hero-animate typing-cursor" id="typing-text"
+                    style="font-size: 1.5rem; font-weight: 300; margin-bottom: 2rem; min-height: 1.5em;">
+                    <!-- Text will be typed here -->
+                </p>
                 <div class="hero-animate"
                     style="font-size: 1.25rem; font-weight: 500; opacity: 1; margin-bottom: 1.5rem; text-shadow: 0 1px 2px rgba(0,0,0,0.1); display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
 
@@ -83,7 +87,8 @@
             <section id="experience">
                 <div class="container">
                     <h2 class="section-title animate-on-scroll">Experience</h2>
-                    <div class="timeline">
+                    <div class="timeline" id="experience-timeline">
+                        <div class="timeline-line-progress" id="timelineProgress"></div>
                         <div class="timeline-item animate-on-scroll" data-location="chicago">
                             <div class="timeline-content">
                                 <div class="timeline-header">
@@ -98,12 +103,23 @@
                                 </div>
                                 <div style="color: var(--text-secondary);">
                                     <ul>
-                                        <li>Managed 5-8 concurrent complex projects within enterprise risk programs, delivering initiatives on time while aligning with business objectives and regulatory requirements.</li>
-                                        <li>Partnered with 10+ cross-functional stakeholders to define scope, priorities, and delivery plans, ensuring alignment across business, risk, compliance, and technology teams.</li>
-                                        <li>Coordinated resources for 15-30 technical team members across Development, Database Administrator, Systems Operations, and Infrastructure; managed 200-400 JIRA issues per program.</li>
-                                        <li>Facilitated the development of an internal Statistical Analysis Management application, enabling stakeholders to effectively monitor and assess organizational risk.</li>
-                                        <li>Developed and maintained end-to-end project plans covering 6-18 month delivery cycles, from project initiation through deployment and release.</li>
-                                        <li>Resolved 90% of project conflicts and challenges, ensuring smooth operations and timely deliverables.</li>
+                                        <li>Managed 5-8 concurrent complex projects within enterprise risk programs,
+                                            delivering initiatives on time while aligning with business objectives and
+                                            regulatory requirements.</li>
+                                        <li>Partnered with 10+ cross-functional stakeholders to define scope,
+                                            priorities, and delivery plans, ensuring alignment across business, risk,
+                                            compliance, and technology teams.</li>
+                                        <li>Coordinated resources for 15-30 technical team members across Development,
+                                            Database Administrator, Systems Operations, and Infrastructure; managed
+                                            200-400 JIRA issues per program.</li>
+                                        <li>Facilitated the development of an internal Statistical Analysis Management
+                                            application, enabling stakeholders to effectively monitor and assess
+                                            organizational risk.</li>
+                                        <li>Developed and maintained end-to-end project plans covering 6-18 month
+                                            delivery cycles, from project initiation through deployment and release.
+                                        </li>
+                                        <li>Resolved 90% of project conflicts and challenges, ensuring smooth operations
+                                            and timely deliverables.</li>
                                     </ul>
                                 </div>
                             </div>
@@ -124,11 +140,22 @@
                                 </div>
                                 <div style="color: var(--text-secondary);">
                                     <ul>
-                                        <li>Lead a Multimillion-dollar project budget exceeding $10 million resulting in implementation of 53 community programs for the American Rescue Plan Act.</li>
-                                        <li>Developed and executed project plans and timelines for a variety of IT initiatives, including the implementation of the new Citywide ERP system, incorporating audit checkpoints and risk assessments to maintain process integrity.</li>
-                                        <li>Collaborated with stakeholders to implement a ServiceNow portal for project managers to track project progress, resulted in keeping track of 150+ projects.</li>
-                                        <li>Successfully launched the website for the City's Community Commission Council for public safety and accountability, providing residents easy access to information.</li>
-                                        <li>Effectively communicated with the members of the evaluation committee, offering direction, explanation, and support throughout the evaluation process for 20+ projects.</li>
+                                        <li>Lead a Multimillion-dollar project budget exceeding $10 million resulting in
+                                            implementation of 53 community programs for the American Rescue Plan Act.
+                                        </li>
+                                        <li>Developed and executed project plans and timelines for a variety of IT
+                                            initiatives, including the implementation of the new Citywide ERP system,
+                                            incorporating audit checkpoints and risk assessments to maintain process
+                                            integrity.</li>
+                                        <li>Collaborated with stakeholders to implement a ServiceNow portal for project
+                                            managers to track project progress, resulted in keeping track of 150+
+                                            projects.</li>
+                                        <li>Successfully launched the website for the City's Community Commission
+                                            Council for public safety and accountability, providing residents easy
+                                            access to information.</li>
+                                        <li>Effectively communicated with the members of the evaluation committee,
+                                            offering direction, explanation, and support throughout the evaluation
+                                            process for 20+ projects.</li>
                                     </ul>
                                 </div>
                             </div>
@@ -148,11 +175,19 @@
                                 </div>
                                 <div style="color: var(--text-secondary);">
                                     <ul>
-                                        <li>Led and managed the lifecycle of 25+ projects with detailed road maps, plans, execution, monitoring, and controlling resulting in significant revenue generation.</li>
-                                        <li>Spearheaded end-to-end delivery for self-service automated application portal leading to timesaving of 80% on manual jobs.</li>
-                                        <li>Delivered Real-Time reporting on campaigns and utilized a CRM (customer relationship management) program to record and control the results of 10,000 consumers.</li>
-                                        <li>Defined implementation strategies, drove strategic planning, and ensured clear, consistent communication across projects, improving team productivity by 20%</li>
-                                        <li>Collaborated cross-functionally with engineering, business, and operations teams to ensure on-time and high-quality project delivery.</li>
+                                        <li>Led and managed the lifecycle of 25+ projects with detailed road maps,
+                                            plans, execution, monitoring, and controlling resulting in significant
+                                            revenue generation.</li>
+                                        <li>Spearheaded end-to-end delivery for self-service automated application
+                                            portal leading to timesaving of 80% on manual jobs.</li>
+                                        <li>Delivered Real-Time reporting on campaigns and utilized a CRM (customer
+                                            relationship management) program to record and control the results of 10,000
+                                            consumers.</li>
+                                        <li>Defined implementation strategies, drove strategic planning, and ensured
+                                            clear, consistent communication across projects, improving team productivity
+                                            by 20%</li>
+                                        <li>Collaborated cross-functionally with engineering, business, and operations
+                                            teams to ensure on-time and high-quality project delivery.</li>
                                     </ul>
                                 </div>
                             </div>
@@ -174,11 +209,20 @@
                                 </div>
                                 <div style="color: var(--text-secondary);">
                                     <ul>
-                                        <li>Networked with 75+ specialized clients and fostered relationships, building deep knowledge of compression therapy equipment in the healthcare industry.</li>
-                                        <li>Influenced application owners and program managers to embrace and apply effective tactics that decreased inefficiencies and saved 10 hours per week on overall execution processes.</li>
-                                        <li>Optimized and restructured complex data sets by using ETL to simplify and accelerate query and reporting processes saving time up to 5 hours per week.</li>
-                                        <li>Chaired end-to-end upgrades for applications by partnering with cross-functional teams, stakeholders, and development teams ensuring 100% deliverables within time by identification and removal of roadblocks.</li>
-                                        <li>Led a project to create awareness of compression therapy for targeting 2000 diabetic patients living with socio-economic constraints.</li>
+                                        <li>Networked with 75+ specialized clients and fostered relationships, building
+                                            deep knowledge of compression therapy equipment in the healthcare industry.
+                                        </li>
+                                        <li>Influenced application owners and program managers to embrace and apply
+                                            effective tactics that decreased inefficiencies and saved 10 hours per week
+                                            on overall execution processes.</li>
+                                        <li>Optimized and restructured complex data sets by using ETL to simplify and
+                                            accelerate query and reporting processes saving time up to 5 hours per week.
+                                        </li>
+                                        <li>Chaired end-to-end upgrades for applications by partnering with
+                                            cross-functional teams, stakeholders, and development teams ensuring 100%
+                                            deliverables within time by identification and removal of roadblocks.</li>
+                                        <li>Led a project to create awareness of compression therapy for targeting 2000
+                                            diabetic patients living with socio-economic constraints.</li>
                                     </ul>
                                 </div>
                             </div>
@@ -236,7 +280,9 @@
                                     </div>
                                 </div>
                                 <p style="color: var(--text-secondary);">
-                                    Courses: Data Warehousing, Management Information System, Object Oriented App Development, Service Oriented Architecture, Project Management for Information Technology, Vendor Management and Service Level Agreement.
+                                    Courses: Data Warehousing, Management Information System, Object Oriented App
+                                    Development, Service Oriented Architecture, Project Management for Information
+                                    Technology, Vendor Management and Service Level Agreement.
                                 </p>
                             </div>
                         </div>
@@ -296,7 +342,7 @@
                             <span class="tag"><i class="fas fa-arrow-trend-up"></i> Process Improvement</span>
                             <span class="tag"><i class="fas fa-handshake"></i> Stakeholder Relations</span>
                             <span class="tag"><i class="fas fa-users-cog"></i> Cross-Functional</span>
-                             <span class="tag"><i class="fas fa-exchange-alt"></i> Change Management</span>
+                            <span class="tag"><i class="fas fa-exchange-alt"></i> Change Management</span>
                             <span class="tag"><i class="fas fa-map-signs"></i> Roadmap Planning</span>
                         </div>
                     </div>
@@ -306,9 +352,9 @@
                         <h3>Technical & Data Analysis</h3>
                         <div class="skill-tags animate-on-scroll">
                             <span class="tag"><i class="fas fa-database"></i> SQL</span>
-                             <span class="tag"><i class="fas fa-code-branch"></i> SDLC</span>
+                            <span class="tag"><i class="fas fa-code-branch"></i> SDLC</span>
                             <span class="tag"><i class="fab fa-python"></i> Python</span>
-                             <span class="tag"><i class="fas fa-chart-bar"></i> Tableau</span>
+                            <span class="tag"><i class="fas fa-chart-bar"></i> Tableau</span>
                             <span class="tag"><i class="fas fa-chart-column"></i> Power-Bi</span>
                             <span class="tag"><i class="fas fa-bolt"></i> Fast API</span>
                             <span class="tag"><i class="fas fa-chart-pie"></i> Scrum Metrics</span>
@@ -332,7 +378,21 @@
                     </div>
                 </div>
             </div>
+            </div>
         </section>
+
+        <!-- Vanilla Tilt Script -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.8.0/vanilla-tilt.min.js"></script>
+        <script>
+            // Initialize Tilt on Cards
+            VanillaTilt.init(document.querySelectorAll(".card"), {
+                max: 5, /* Max tilt */
+                speed: 400,
+                glare: true,
+                "max-glare": 0.2,
+                scale: 1.02
+            });
+        </script>
 
         <section class="visually-hidden">
             <h2>Additional Skills & Keywords for ATS Optimization</h2>
@@ -543,6 +603,98 @@
                     el.classList.add('visible');
                 }, index * 200 + 100); // Stagger start
             });
+
+            // --- ALL NEW DYNAMIC FEATURES ---
+
+            // 3. Typing Effect
+            const textToType = "Risk Technical Project Manager | IT Project Manager";
+            const typingElement = document.getElementById('typing-text');
+            let charIndex = 0;
+
+            function typeWriter() {
+                if (charIndex < textToType.length) {
+                    typingElement.textContent += textToType.charAt(charIndex);
+                    charIndex++;
+                    setTimeout(typeWriter, 50); // Typing speed
+                }
+            }
+
+            // Start typing after a slight delay to let hero animate in
+            setTimeout(typeWriter, 1000);
+
+            // 4. Scroll Progress Bar (Top of Page)
+            window.addEventListener('scroll', () => {
+                const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+                const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+                const scrollPercentage = (scrollTop / scrollHeight) * 100;
+                document.getElementById('scrollProgressBar').style.width = scrollPercentage + "%";
+            });
+
+            // 5. Interactive Timeline (Line Draw & Active Bullets)
+            const timeline = document.getElementById('experience-timeline');
+            const timelineLine = document.getElementById('timelineProgress');
+
+            function updateTimeline() {
+                if (!timeline) return;
+
+                const timelineRect = timeline.getBoundingClientRect();
+                const windowHeight = window.innerHeight;
+
+                // Calculate how much of the timeline is relevant to view
+                // We want the line to fill as we scroll PAST the start
+                const startOffset = windowHeight / 2; // Line fills when timeline hits middle of screen
+                const scrollPosition = window.scrollY + startOffset;
+                const timelineStart = timeline.offsetTop;
+                const timelineHeight = timeline.offsetHeight;
+
+                // Simple relative calculation for line height
+                // Logic: 0% at top, 100% at bottom
+                // We base it on window scrollTop relative to timeline position
+
+                // Better approach: Calculate progress based on scroll relative to timeline element bounds
+                const distFromTop = window.scrollY + (window.innerHeight * 0.6) - timeline.parentElement.offsetTop;
+                // Using parent (section container) offset for stability or timeline's own offsetTop
+                // Let's use getBoundingClientRect for viewport relative precision
+
+                // Start drawing when timeline top is at 60% of viewport height
+                const relativeTop = timelineRect.top;
+                const relativeBottom = timelineRect.bottom;
+                const totalHeight = timelineRect.height;
+                const viewportTrigger = windowHeight * 0.6; // 60% down the screen
+
+                // Height of line = how far has "viewportTrigger" travelled down the timeline
+                // If timeline top is at viewportTrigger (600px), progress is 0.
+                // If timeline top is at -Height (scrolled past), progress is full.
+
+                let progress = 0;
+
+                // dist = How many pixels has the timeline top moved UP past the trigger point
+                const dist = viewportTrigger - relativeTop;
+
+                if (dist > 0) {
+                    progress = (dist / totalHeight) * 100;
+                }
+
+                // Cap at 100
+                if (progress > 100) progress = 100;
+                if (progress < 0) progress = 0;
+
+                timelineLine.style.height = `${progress}%`;
+
+                // Update Active Bullets
+                document.querySelectorAll('.timeline-item').forEach(item => {
+                    const rect = item.getBoundingClientRect();
+                    // If the item's dot (approx 2rem down) is passed by the trigger
+                    if (rect.top + 30 < viewportTrigger) {
+                        item.classList.add('active');
+                    } else {
+                        item.classList.remove('active');
+                    }
+                });
+            }
+
+            window.addEventListener('scroll', updateTimeline);
+            updateTimeline(); // Initial call
         });
     </script>
 </body>
