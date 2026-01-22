@@ -140,16 +140,59 @@ nav {
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
 }
 
-.logo {
+/* Mobile Navigation */
+.hamburger {
     display: none;
-    /* Hide empty logo container */
+    cursor: pointer;
+    z-index: 1002;
+    background: none;
+    border: none;
+    padding: 10px;
+}
+
+.hamburger i {
+    font-size: 1.5rem;
+    color: var(--primary-color);
 }
 
 .nav-links {
     display: flex;
     gap: 2rem;
     align-items: center;
-    /* Ensures vertical alignment */
+}
+
+/* Mobile Menu Styles */
+@media (max-width: 768px) {
+    .hamburger {
+        display: block;
+        position: absolute;
+        right: 20px;
+        top: 20px;
+    }
+
+    .nav-links {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        height: 100vh;
+        width: 70%;
+        background-color: white;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+        transition: right 0.3s ease-in-out;
+        z-index: 1000;
+    }
+
+    .nav-links.active {
+        right: 0;
+    }
+
+    .nav-links a.nav-item {
+        font-size: 1.2rem;
+        margin: 1rem 0;
+    }
 }
 
 .nav-links a.nav-item {
@@ -223,9 +266,17 @@ nav {
 
 /* Animated Gradient Keyframes */
 @keyframes gradientBG {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
 }
 
 /* Typing Effect Cursor */
@@ -236,7 +287,9 @@ nav {
 }
 
 @keyframes blink {
-    50% { opacity: 0; }
+    50% {
+        opacity: 0;
+    }
 }
 
 .hero h1 {
@@ -323,7 +376,8 @@ nav {
     content: '';
     position: absolute;
     top: 0;
-    left: 20px; /* Aligned with coordinate of bullets */
+    left: 20px;
+    /* Aligned with coordinate of bullets */
     height: 100%;
     width: 2px;
     background: #E5E7EB;
@@ -337,7 +391,8 @@ nav {
     left: 20px;
     width: 2px;
     background: var(--accent-color);
-    height: 0%; /* Will be set by JS */
+    height: 0%;
+    /* Will be set by JS */
     z-index: 1;
     transition: height 0.1s linear;
 }
@@ -353,6 +408,20 @@ nav {
     position: relative;
     /* Use a longer, smoother transition */
     transition: background-position 2s ease-in-out, background-size 2s ease-in-out;
+}
+
+/* iOS Safari Fix for background-attachment: fixed */
+@supports (-webkit-touch-callout: none) {
+    #map-wrapper {
+        background-attachment: scroll;
+    }
+}
+
+@media (max-width: 768px) {
+    #map-wrapper {
+        background-attachment: scroll;
+        /* Disable fixed bg on mobile generally for performance */
+    }
 }
 
 #map-wrapper.view-chicago {
@@ -398,15 +467,19 @@ nav {
 .timeline-item {
     margin-bottom: 4rem;
     /* Removed flex/gap as logo is moving inside */
-    padding-left: 3.5rem; /* Increased to visual separation */
-    border-left: none; /* Removing per-item border for continuous line */
+    padding-left: 3.5rem;
+    /* Increased to visual separation */
+    border-left: none;
+    /* Removing per-item border for continuous line */
 }
 
 .timeline-item::before {
     content: '';
     position: absolute;
-    left: 15px; /* Centered on the 2px line at left:20px (20 - 5 = 15) */
-    top: 2rem; /* Aligned with top of content roughly */
+    left: 15px;
+    /* Centered on the 2px line at left:20px (20 - 5 = 15) */
+    top: 2rem;
+    /* Aligned with top of content roughly */
     width: 12px;
     height: 12px;
     background: white;
@@ -677,10 +750,7 @@ footer {
 
 /* Mobile Responsive */
 @media (max-width: 768px) {
-    .nav-links {
-        display: none;
-        /* Mobile menu would go here */
-    }
+    /* .nav-links is now handled above in Mobile Navigation section */
 
     .hero h1 {
         font-size: 2.75rem;

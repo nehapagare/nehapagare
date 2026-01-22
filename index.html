@@ -33,7 +33,10 @@
                 <div class="logo">
                     <!-- Moved profile image to right side -->
                 </div>
-                <div class="nav-links">
+                <button class="hamburger" id="hamburger-btn" aria-label="Toggle navigation">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="nav-links" id="nav-links">
                     <a href="#about" class="nav-item">About</a>
                     <a href="#experience" class="nav-item">Experience</a>
                     <a href="#education" class="nav-item">Education</a>
@@ -695,6 +698,34 @@
 
             window.addEventListener('scroll', updateTimeline);
             updateTimeline(); // Initial call
+
+            // 6. Mobile Menu Toggle
+            const hamburgerBtn = document.getElementById('hamburger-btn');
+            const navLinks = document.getElementById('nav-links');
+
+            if (hamburgerBtn && navLinks) {
+                hamburgerBtn.addEventListener('click', () => {
+                    navLinks.classList.toggle('active');
+                    const icon = hamburgerBtn.querySelector('i');
+                    if (navLinks.classList.contains('active')) {
+                        icon.classList.remove('fa-bars');
+                        icon.classList.add('fa-times');
+                    } else {
+                        icon.classList.remove('fa-times');
+                        icon.classList.add('fa-bars');
+                    }
+                });
+
+                // Close menu when clicking a link
+                document.querySelectorAll('.nav-item').forEach(link => {
+                    link.addEventListener('click', () => {
+                        navLinks.classList.remove('active');
+                        const icon = hamburgerBtn.querySelector('i');
+                        icon.classList.remove('fa-times');
+                        icon.classList.add('fa-bars');
+                    });
+                });
+            }
         });
     </script>
 </body>
